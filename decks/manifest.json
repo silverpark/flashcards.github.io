@@ -1,0 +1,18 @@
+[
+  { "id": "dotnet", "label": ".NET", "file": "dotnet.json", "tags": ["dotnet", "backend", "csharp"] },
+  { "id": "dotnet-copy", "label": ".NET (copy)", "file": "dotnet copy.json", "tags": ["dotnet", "test"] },
+  { "id": "dotnet-copy-2", "label": ".NET (copy 2)", "file": "dotnet copy 2.json", "tags": ["dotnet", "test", "backend"] },
+  { "id": "dotnet-copy-3", "label": ".NET (copy 3)", "file": "dotnet copy 3.json", "tags": ["dotnet", "test", "csharp"] },
+  { "id": "dotnet-copy-4", "label": ".NET (copy 4)", "file": "dotnet copy 4.json", "tags": ["dotnet", "test"] },
+  { "id": "dotnet-copy-5", "label": ".NET (copy 5)", "file": "dotnet copy 5.json", "tags": ["dotnet", "test", "backend"] },
+  { "id": "dotnet-copy-6", "label": ".NET (copy 6)", "file": "dotnet copy 6.json", "tags": ["dotnet", "test", "csharp"] },
+  { "id": "dotnet-copy-7", "label": ".NET (copy 7)", "file": "dotnet copy 7.json", "tags": ["dotnet", "test"] },
+  { "id": "dotnet-copy-8", "label": ".NET (copy 8)", "file": "dotnet copy 8.json", "tags": ["dotnet", "test", "backend"] },
+  { "id": "dotnet-copy-9", "label": ".NET (copy 9)", "file": "dotnet copy 9.json", "tags": ["dotnet", "test", "csharp"] },
+  { "id": "dotnet-copy-10", "label": ".NET (copy 10)", "file": "dotnet copy 10.json", "tags": ["dotnet", "test"] },
+  { "id": "dotnet-copy-11", "label": ".NET (copy 11)", "file": "dotnet copy 11.json", "tags": ["dotnet", "test", "backend"] },
+  { "id": "dotnet-copy-12", "label": ".NET (copy 12)", "file": "dotnet copy 12.json", "tags": ["dotnet", "test", "csharp"] },
+  { "id": "dotnet-copy-13", "label": ".NET (copy 13)", "file": "dotnet copy 13.json", "tags": ["dotnet", "test"] },
+  { "id": "dotnet-copy-14", "label": ".NET (copy 14)", "file": "dotnet copy 14.json", "tags": ["dotnet", "test", "backend", "csharp"] },
+  { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economie"] }
+]

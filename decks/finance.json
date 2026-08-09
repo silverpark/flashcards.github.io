@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce que le P/E (Price/Earnings) ?",
+    "reponse": "Le ratio Prix de l'action ÷ Bénéfice par action. Il indique combien de fois le marché valorise les bénéfices annuels de l'entreprise."
+  },
+  {
+    "id": "2",
+    "question": "Qu'est-ce que l'EBITDA ?",
+    "reponse": "Le résultat avant intérêts, impôts, dépréciation et amortissement. Il mesure la performance opérationnelle hors effets comptables et financiers."
+  },
+  {
+    "id": "3",
+    "question": "Qu'est-ce qu'un biais de dotation (endowment effect) ?",
+    "reponse": "Un biais cognitif qui fait surévaluer un actif du simple fait qu'on le possède déjà, comparé à sa valeur si on ne le possédait pas."
+  },
+  {
+    "id": "4",
+    "question": "Différence entre valeur nominale et valeur de marché d'une obligation ?",
+    "reponse": "La valeur nominale est le montant remboursé à l'échéance ; la valeur de marché fluctue selon les taux d'intérêt et le risque perçu."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce que la diversification d'un portefeuille ?",
+    "reponse": "Répartir les investissements entre plusieurs actifs peu corrélés afin de réduire le risque global sans nécessairement réduire le rendement attendu."
+  },
+  {
+    "id": "6",
+    "question": "Qu'est-ce que le ratio de Sharpe ?",
+    "reponse": "Une mesure du rendement excédentaire d'un investissement par unité de risque (volatilité), calculée comme (rendement - taux sans risque) ÷ écart-type."
+  },
+  {
+    "id": "7",
+    "question": "Qu'est-ce que l'inflation ?",
+    "reponse": "Une hausse générale et durable du niveau des prix, qui entraîne une baisse du pouvoir d'achat de la monnaie."
+  },
+  {
+    "id": "8",
+    "question": "Qu'est-ce qu'un ETF ?",
+    "reponse": "Un fonds négocié en bourse (Exchange-Traded Fund) qui réplique généralement la performance d'un indice, combinant diversification et liquidité."
+  }
+]
