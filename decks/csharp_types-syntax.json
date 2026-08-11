@@ -2,5 +2,11 @@
   {"id":"1","question":"Que signifie le mot-clé internal ?","reponse":"Le type/membre est visible UNIQUEMENT dans le même assembly (projet). Invisible depuis un autre projet qui référence celui-ci."},
   {"id":"2","question":"Qu'est-ce qu'un record ?","reponse":"Un type conçu pour stocker des données de façon IMMUABLE (non modifiable après création). Il compare par VALEUR (pas par référence) et génère automatiquement Equals, GetHashCode, ToString."},
   {"id":"3","question":"Que signifie Task<IActionResult> ?","reponse":"Le retour d'une action ASYNCHRONE dans un Controller ASP.NET. Task = opération asynchrone en cours ; IActionResult = un résultat HTTP générique (Ok, NotFound, BadRequest, etc.)."},
-  {"id":"4","question":"Que signifie le mot-clé sealed ?","reponse":"Empêche une classe d'être HÉRITÉE (personne ne peut faire une classe qui hérite de celle-ci). Utile pour verrouiller une implémentation finale."}
+  {"id":"4","question":"Que signifie le mot-clé sealed ?","reponse":"Empêche une classe d'être HÉRITÉE (personne ne peut faire une classe qui hérite de celle-ci). Utile pour verrouiller une implémentation finale."},
+  {"id":"5","question":"Que signifie readonly ?","reponse":"Une variable/champ qui ne peut être assigné QU'UNE FOIS : à la déclaration ou dans le constructeur. Impossible de la modifier après."},
+  {"id":"6","question":"Que signifie static ?","reponse":"Un membre qui appartient à la CLASSE elle-même, pas à une instance. On y accède directement via NomClasse.Membre, sans créer d'objet."},
+  {"id":"7","question":"Qu'est-ce qu'un init-only setter (init) ?","reponse":"Comme un setter normal, mais modifiable UNIQUEMENT à la création de l'objet (dans l'initialiseur). Après, la propriété devient immuable. Très utilisé avec les records."},
+  {"id":"8","question":"Nullable reference types (string?) ?","reponse":"Active un système d'avertissement du compilateur pour distinguer un type qui PEUT être null (string?) d'un type qui ne devrait JAMAIS l'être (string). Aide à éviter les NullReferenceException."},
+  {"id":"9","question":"Que signifie var ?","reponse":"Le compilateur DÉDUIT automatiquement le type de la variable à partir de sa valeur. Le type reste STATIQUE et FIXE, ce n'est pas du typage dynamique."},
+  {"id":"10","question":"Qu'est-ce que le pattern matching (is, switch) ?","reponse":"Une syntaxe qui permet de VÉRIFIER et EXTRAIRE un type/une valeur en une seule expression. Ex: if (obj is Person p) ou switch (x) { case > 0 => \"positif\" }."}
 ]
