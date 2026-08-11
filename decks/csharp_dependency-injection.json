@@ -1,0 +1,6 @@
+[
+  {"id":"1","question":"Qu'est-ce qu'un Container of Service (conteneur DI) ?","reponse":"Une 'boîte' qui stocke toutes les dépendances (services) de l'application et sait comment les créer/injecter automatiquement quand une classe en a besoin."},
+  {"id":"2","question":"AddTransient : quand l'utiliser ?","reponse":"Crée une NOUVELLE instance à CHAQUE fois qu'on la demande. À utiliser pour des services légers, sans état (stateless)."},
+  {"id":"3","question":"AddScoped : quand l'utiliser ?","reponse":"Crée UNE instance PAR REQUÊTE HTTP (partagée dans toute la requête). À utiliser pour des services liés à une requête, comme un DbContext."},
+  {"id":"4","question":"AddSingleton : quand l'utiliser ?","reponse":"Crée UNE SEULE instance pour TOUTE LA DURÉE DE VIE de l'application (partagée par tout le monde). À utiliser pour des services globaux sans état, comme une config ou un cache."}
+]
