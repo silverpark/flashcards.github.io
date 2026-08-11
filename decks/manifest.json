@@ -14,5 +14,6 @@
   { "id": "dotnet-copy-12", "label": ".NET (copy 12)", "file": "dotnet copy 12.json", "tags": ["dotnet", "test", "csharp"], "profiles": ["entretien"] },
   { "id": "dotnet-copy-13", "label": ".NET (copy 13)", "file": "dotnet copy 13.json", "tags": ["dotnet", "test"], "profiles": ["étudiant", "pro"] },
   { "id": "dotnet-copy-14", "label": ".NET (copy 14)", "file": "dotnet copy 14.json", "tags": ["dotnet", "test", "backend", "csharp"], "profiles": ["pro", "entretien"] },
-  { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economie"], "profiles": ["étudiant", "pro"] }
+  { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economie"], "profiles": ["étudiant", "pro"] },
+  { "id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaique"], "profiles": ["study"] }
 ]
