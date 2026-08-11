@@ -15,5 +15,8 @@
   { "id": "dotnet-copy-13", "label": ".NET (copy 13)", "file": "dotnet copy 13.json", "tags": ["dotnet", "test"], "profiles": ["étudiant", "pro"] },
   { "id": "dotnet-copy-14", "label": ".NET (copy 14)", "file": "dotnet copy 14.json", "tags": ["dotnet", "test", "backend", "csharp"], "profiles": ["pro", "entretien"] },
   { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economie"], "profiles": ["étudiant", "pro"] },
-  { "id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaique"], "profiles": ["study"] }
+  { "id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaique"], "profiles": ["study", "n1"] },
+  { "id": "csharp_mediatr-cqrs", "label": "MediatR/CQRS", "file": "csharp_mediatr-cqrs.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] },
+  { "id": "csharp_dependency-injection", "label": "Dependency Injection", "file": "csharp_dependency-injection.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] },
+  { "id": "csharp_types-syntax", "label": "Types / Syntax", "file": "csharp_types-syntax.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] }
 ]
