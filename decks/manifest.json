@@ -1,22 +1,7 @@
 [
-  { "id": "dotnet", "label": ".NET", "file": "dotnet.json", "tags": ["dotnet", "backend", "csharp"], "profiles": ["pro", "entretien"] },
-  { "id": "dotnet-copy", "label": ".NET (copy)", "file": "dotnet copy.json", "tags": ["dotnet", "test"], "profiles": ["étudiant"] },
-  { "id": "dotnet-copy-2", "label": ".NET (copy 2)", "file": "dotnet copy 2.json", "tags": ["dotnet", "test", "backend"], "profiles": ["pro"] },
-  { "id": "dotnet-copy-3", "label": ".NET (copy 3)", "file": "dotnet copy 3.json", "tags": ["dotnet", "test", "csharp"], "profiles": ["entretien"] },
-  { "id": "dotnet-copy-4", "label": ".NET (copy 4)", "file": "dotnet copy 4.json", "tags": ["dotnet", "test"], "profiles": ["étudiant"] },
-  { "id": "dotnet-copy-5", "label": ".NET (copy 5)", "file": "dotnet copy 5.json", "tags": ["dotnet", "test", "backend"], "profiles": ["pro"] },
-  { "id": "dotnet-copy-6", "label": ".NET (copy 6)", "file": "dotnet copy 6.json", "tags": ["dotnet", "test", "csharp"], "profiles": ["entretien"] },
-  { "id": "dotnet-copy-7", "label": ".NET (copy 7)", "file": "dotnet copy 7.json", "tags": ["dotnet", "test"], "profiles": ["étudiant"] },
-  { "id": "dotnet-copy-8", "label": ".NET (copy 8)", "file": "dotnet copy 8.json", "tags": ["dotnet", "test", "backend"], "profiles": ["pro"] },
-  { "id": "dotnet-copy-9", "label": ".NET (copy 9)", "file": "dotnet copy 9.json", "tags": ["dotnet", "test", "csharp"], "profiles": ["entretien"] },
-  { "id": "dotnet-copy-10", "label": ".NET (copy 10)", "file": "dotnet copy 10.json", "tags": ["dotnet", "test"], "profiles": ["étudiant"] },
-  { "id": "dotnet-copy-11", "label": ".NET (copy 11)", "file": "dotnet copy 11.json", "tags": ["dotnet", "test", "backend"], "profiles": ["pro"] },
-  { "id": "dotnet-copy-12", "label": ".NET (copy 12)", "file": "dotnet copy 12.json", "tags": ["dotnet", "test", "csharp"], "profiles": ["entretien"] },
-  { "id": "dotnet-copy-13", "label": ".NET (copy 13)", "file": "dotnet copy 13.json", "tags": ["dotnet", "test"], "profiles": ["étudiant", "pro"] },
-  { "id": "dotnet-copy-14", "label": ".NET (copy 14)", "file": "dotnet copy 14.json", "tags": ["dotnet", "test", "backend", "csharp"], "profiles": ["pro", "entretien"] },
-  { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economie"], "profiles": ["étudiant", "pro"] },
-  { "id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaique"], "profiles": ["study", "n1"] },
-  { "id": "csharp_mediatr-cqrs", "label": "MediatR/CQRS", "file": "csharp_mediatr-cqrs.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] },
-  { "id": "csharp_dependency-injection", "label": "Dependency Injection", "file": "csharp_dependency-injection.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] },
-  { "id": "csharp_types-syntax", "label": "Types / Syntax", "file": "csharp_types-syntax.json", "tags": ["dotnet", ".NET"], "profiles": ["study", "n1"] }
+  { "id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economy"], "profiles": ["study", "n1"] },
+  { "id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaic"], "profiles": ["study", "n1"] },
+  { "id": "csharp_mediatr-cqrs", "label": "MediatR/CQRS", "file": "csharp_mediatr-cqrs.json", "tags": [".NET"], "profiles": ["study", "n1"] },
+  { "id": "csharp_dependency-injection", "label": "Dependency Injection", "file": "csharp_dependency-injection.json", "tags": [".NET"], "profiles": ["study", "n1"] },
+  { "id": "csharp_types-syntax", "label": "Types / Syntax", "file": "csharp_types-syntax.json", "tags": [".NET"], "profiles": ["study", "n1"] }
 ]
