@@ -1,8 +1,8 @@
 [
   {"id":"1","question":"wholesome moment","reponse":"un moment chaleureux"},
   {"id":"2","question":"He spoke","reponse":"Il dit / Il parla\n\n\"He spake\" → \"He spoke\" (spake est le passé archaïque de speak)"},
-  {"id":"3","question":"Men ought always","reponse":"Les hommes devraient toujours"},
-  {"id":"4","question":"To faint","reponse":"Se décourager / Perdre courage"},
+  {"id":"3","question":"Men should always","reponse":"Les hommes devraient toujours\n\n\"Ought\" → \"Should\" (ought est une forme archaïque/plus formelle de should)"},
+  {"id":"4","question":"To give up / To lose heart","reponse":"Se décourager / Perdre courage\n\n\"To faint\" → \"To give up / To lose heart\" (faint dans ce sens signifiait \"perdre courage\", un usage vieilli ; le sens moderne de faint est plutôt \"s'évanouir\")"},
   {"id":"5","question":"Neither","reponse":"Ni / Non plus"},
   {"id":"6","question":"Regarded man","reponse":"N'avait égard aux hommes / Se souciait des hommes"},
   {"id":"7","question":"A widow","reponse":"Une veuve"},
