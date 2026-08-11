@@ -1,0 +1,7 @@
+[
+  {"id":"1","question":"Qu'est-ce que MediatR ?","reponse":"Une bibliothèque qui implémente les patterns CQRS/Mediator. Elle appelle le bon handler par convention de typage + réflexion, via l'injection de dépendances (DI)."},
+  {"id":"2","question":"Qu'est-ce que l'Assembly Scan ?","reponse":"Un mécanisme qui parcourt (scan) un assembly (dll/projet) pour trouver automatiquement toutes les classes qui correspondent à un pattern (ex: tous les Handlers), sans avoir à les enregistrer un par un."},
+  {"id":"3","question":"À quoi sert AddMediatR ?","reponse":"C'est la méthode d'extension qui enregistre MediatR dans le conteneur DI. Elle fait l'assembly scan et enregistre automatiquement tous les Handlers trouvés."},
+  {"id":"4","question":"Qu'est-ce qu'un middleware (dans MediatR) ?","reponse":"Un morceau de code qui s'exécute AVANT ou APRÈS un Handler (ex: logging, validation). On les appelle aussi 'Behaviors' dans MediatR. Ils s'ajoutent en pipeline autour de la requête."},
+  {"id":"5","question":"Comment MediatR trouve-t-il les Handlers ?","reponse":"Par réflexion : il inspecte les types au runtime pour trouver quelle classe implémente IRequestHandler<TRequest> correspondant à la requête envoyée."}
+]
