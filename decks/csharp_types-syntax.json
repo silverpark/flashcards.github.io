@@ -1,0 +1,6 @@
+[
+  {"id":"1","question":"Que signifie le mot-clé internal ?","reponse":"Le type/membre est visible UNIQUEMENT dans le même assembly (projet). Invisible depuis un autre projet qui référence celui-ci."},
+  {"id":"2","question":"Qu'est-ce qu'un record ?","reponse":"Un type conçu pour stocker des données de façon IMMUABLE (non modifiable après création). Il compare par VALEUR (pas par référence) et génère automatiquement Equals, GetHashCode, ToString."},
+  {"id":"3","question":"Que signifie Task<IActionResult> ?","reponse":"Le retour d'une action ASYNCHRONE dans un Controller ASP.NET. Task = opération asynchrone en cours ; IActionResult = un résultat HTTP générique (Ok, NotFound, BadRequest, etc.)."},
+  {"id":"4","question":"Que signifie le mot-clé sealed ?","reponse":"Empêche une classe d'être HÉRITÉE (personne ne peut faire une classe qui hérite de celle-ci). Utile pour verrouiller une implémentation finale."}
+]
