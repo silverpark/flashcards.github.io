@@ -2,5 +2,9 @@
   {"id":"1","question":"Qu'est-ce qu'un Container of Service (conteneur DI) ?","reponse":"Une 'boîte' qui stocke toutes les dépendances (services) de l'application et sait comment les créer/injecter automatiquement quand une classe en a besoin."},
   {"id":"2","question":"AddTransient : quand l'utiliser ?","reponse":"Crée une NOUVELLE instance à CHAQUE fois qu'on la demande. À utiliser pour des services légers, sans état (stateless)."},
   {"id":"3","question":"AddScoped : quand l'utiliser ?","reponse":"Crée UNE instance PAR REQUÊTE HTTP (partagée dans toute la requête). À utiliser pour des services liés à une requête, comme un DbContext."},
-  {"id":"4","question":"AddSingleton : quand l'utiliser ?","reponse":"Crée UNE SEULE instance pour TOUTE LA DURÉE DE VIE de l'application (partagée par tout le monde). À utiliser pour des services globaux sans état, comme une config ou un cache."}
+  {"id":"4","question":"AddSingleton : quand l'utiliser ?","reponse":"Crée UNE SEULE instance pour TOUTE LA DURÉE DE VIE de l'application (partagée par tout le monde). À utiliser pour des services globaux sans état, comme une config ou un cache."},
+  {"id":"5","question":"Qu'est-ce qu'une Captive Dependency ?","reponse":"Une ERREUR fréquente : injecter un service à durée de vie COURTE (Scoped/Transient) dans un service à durée de vie LONGUE (Singleton). Le service court reste \"captif\" et ne se renouvelle jamais correctement."},
+  {"id":"6","question":"Qu'est-ce qu'un IServiceProvider ?","reponse":"L'objet qui RÉSOUT les dépendances : c'est lui qui va chercher/crée l'instance demandée dans le conteneur DI quand on fait GetService<T>()."},
+  {"id":"7","question":"Qu'est-ce que le pattern IOptions<T> ?","reponse":"Une façon d'injecter de la CONFIGURATION (ex: appsettings.json) fortement typée dans un service, plutôt que de lire les settings à la main."},
+  {"id":"8","question":"TryAddScoped/TryAddSingleton, à quoi ça sert ?","reponse":"Comme AddScoped/AddSingleton, mais n'enregistre le service QUE s'il n'existe pas déjà. Utile pour éviter les doublons dans les librairies partagées."}
 ]
