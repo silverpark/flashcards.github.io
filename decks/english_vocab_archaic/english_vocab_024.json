@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Don't care",
+    "reponse": "S'en ficher"
+  },
+  {
+    "id": "2",
+    "question": "Care to + verbe",
+    "reponse": "Vouloir (forme rare)"
+  },
+  {
+    "id": "3",
+    "question": "Free will",
+    "reponse": "Libre arbitre"
+  },
+  {
+    "id": "4",
+    "question": "Whisper",
+    "reponse": "Murmure"
+  },
+  {
+    "id": "5",
+    "question": "It's the very thing",
+    "reponse": "C'est exactement ce qu'il faut / ce dont on avait besoin / la chose exacte"
+  },
+  {
+    "id": "6",
+    "question": "I needed a break, and this vacation is the very thing",
+    "reponse": "J'avais besoin d'une pause, et ces vacances sont exactement ce qu'il me fallait"
+  },
+  {
+    "id": "7",
+    "question": "A warm drink on a cold day is the very thing",
+    "reponse": "Une boisson chaude par un jour froid est juste ce qu'il faut"
+  },
+  {
+    "id": "8",
+    "question": "The very",
+    "reponse": "Exactement / même / précis"
+  },
+  {
+    "id": "9",
+    "question": "Thing",
+    "reponse": "Chose / quelque chose de précis"
+  },
+  {
+    "id": "10",
+    "question": "Yet",
+    "reponse": "Toujours / néanmoins / pourtant / cependant"
+  }
+]

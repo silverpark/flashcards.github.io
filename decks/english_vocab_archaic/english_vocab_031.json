@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Overpower",
+    "reponse": "Dominer par la force"
+  },
+  {
+    "id": "2",
+    "question": "Outmatch",
+    "reponse": "Être supérieur globalement"
+  },
+  {
+    "id": "3",
+    "question": "Cutting off (sens figuré)",
+    "reponse": "Couper"
+  },
+  {
+    "id": "4",
+    "question": "Don't cut me off",
+    "reponse": "Ne me coupe pas la parole"
+  },
+  {
+    "id": "5",
+    "question": "They were cut off from help",
+    "reponse": "Ils étaient isolés."
+  },
+  {
+    "id": "6",
+    "question": "To curate",
+    "reponse": "Organiser, sélectionner avec soin, choisir et organiser de manière réfléchie"
+  },
+  {
+    "id": "7",
+    "question": "Wise",
+    "reponse": "Sage"
+  },
+  {
+    "id": "8",
+    "question": "Rewired",
+    "reponse": "Recâblé / reconfiguré"
+  },
+  {
+    "id": "9",
+    "question": "Pull (sens figuré)",
+    "reponse": "Attraction / pouvoir d'attirer"
+  },
+  {
+    "id": "10",
+    "question": "Fill",
+    "reponse": "Remplir / compléter"
+  }
+]

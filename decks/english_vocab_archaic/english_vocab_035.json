@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Most likely",
+    "reponse": "Très probablement"
+  },
+  {
+    "id": "2",
+    "question": "Bake",
+    "reponse": "Cuire"
+  },
+  {
+    "id": "3",
+    "question": "Gaze",
+    "reponse": "Regard"
+  },
+  {
+    "id": "4",
+    "question": "Tore apart",
+    "reponse": "Déchiré"
+  },
+  {
+    "id": "5",
+    "question": "Raped",
+    "reponse": "Violé"
+  },
+  {
+    "id": "6",
+    "question": "Ripped",
+    "reponse": "Arraché"
+  },
+  {
+    "id": "7",
+    "question": "To fall / fell / fallen",
+    "reponse": "Chuter / Tomber"
+  },
+  {
+    "id": "8",
+    "question": "Leaked",
+    "reponse": "Fuite / divulgué"
+  },
+  {
+    "id": "9",
+    "question": "Cracks",
+    "reponse": "Fissures"
+  },
+  {
+    "id": "10",
+    "question": "Show up",
+    "reponse": "Se montrer / présenter / arriver"
+  }
+]

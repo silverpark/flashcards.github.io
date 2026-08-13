@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Illness",
+    "reponse": "Maladie, générale, non spécifique, plutôt un état médical"
+  },
+  {
+    "id": "2",
+    "question": "Disease",
+    "reponse": "Maladie, spécifique, diagnostiquée (médicale, souvent grave)"
+  },
+  {
+    "id": "3",
+    "question": "Ever",
+    "reponse": "Jamais"
+  },
+  {
+    "id": "4",
+    "question": "Have you ever…?",
+    "reponse": "Déjà"
+  },
+  {
+    "id": "5",
+    "question": "Nobody ever…",
+    "reponse": "Jamais"
+  },
+  {
+    "id": "6",
+    "question": "Ever-changing",
+    "reponse": "En constante évolution, toujours / constamment"
+  },
+  {
+    "id": "7",
+    "question": "How did you ever…?",
+    "reponse": "Même"
+  },
+  {
+    "id": "8",
+    "question": "The best ever",
+    "reponse": "Jamais vu (de tous les temps)"
+  },
+  {
+    "id": "9",
+    "question": "Thorns",
+    "reponse": "Épines"
+  },
+  {
+    "id": "10",
+    "question": "Nails",
+    "reponse": "Clous"
+  }
+]

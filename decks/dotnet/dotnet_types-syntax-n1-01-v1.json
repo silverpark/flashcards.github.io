@@ -8,5 +8,7 @@
   {"id":"7","question":"Qu'est-ce qu'un init-only setter (init) ?","reponse":"Comme un setter normal, mais modifiable UNIQUEMENT à la création de l'objet (dans l'initialiseur). Après, la propriété devient immuable. Très utilisé avec les records."},
   {"id":"8","question":"Nullable reference types (string?) ?","reponse":"Active un système d'avertissement du compilateur pour distinguer un type qui PEUT être null (string?) d'un type qui ne devrait JAMAIS l'être (string). Aide à éviter les NullReferenceException."},
   {"id":"9","question":"Que signifie var ?","reponse":"Le compilateur DÉDUIT automatiquement le type de la variable à partir de sa valeur. Le type reste STATIQUE et FIXE, ce n'est pas du typage dynamique."},
-  {"id":"10","question":"Qu'est-ce que le pattern matching (is, switch) ?","reponse":"Une syntaxe qui permet de VÉRIFIER et EXTRAIRE un type/une valeur en une seule expression. Ex: if (obj is Person p) ou switch (x) { case > 0 => \"positif\" }."}
+  {"id":"10","question":"Qu'est-ce que le pattern matching (is, switch) ?","reponse":"Une syntaxe qui permet de VÉRIFIER et EXTRAIRE un type/une valeur en une seule expression. Ex: if (obj is Person p) ou switch (x) { case > 0 => \"positif\" }."},
+  {"id":"11","question":"Que signifie string? (nullable) ?","reponse":"Indique que la variable PEUT être null. Active les Nullable Reference Types (NRT) : le compilateur t'avertit si tu risques un NullReferenceException en oubliant de vérifier avant utilisation."},
+  {"id":"12","question":"Qu'est-ce que DateTime.SpecifyKind ?","reponse":"Change le Kind (Utc/Local/Unspecified) d'un DateTime SANS modifier sa valeur. Utile quand une date vient d'une source sans info de fuseau (ex: DB) et qu'on veut préciser \"c'est de l'UTC\"."}
 ]

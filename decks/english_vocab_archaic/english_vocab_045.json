@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "question": "Down",
+    "reponse": "Vers le bas / contre le sol"
+  },
+  {
+    "id": "2",
+    "question": "To strap",
+    "reponse": "Attacher solidement"
+  },
+  {
+    "id": "3",
+    "question": "Neither",
+    "reponse": "Ni l'un ni l'autre"
+  },
+  {
+    "id": "4",
+    "question": "Neither side",
+    "reponse": "Aucun des deux côtés"
+  }
+]

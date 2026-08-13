@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Puppet",
+    "reponse": "Marionnette"
+  },
+  {
+    "id": "2",
+    "question": "Fit (physique)",
+    "reponse": "Être en forme"
+  },
+  {
+    "id": "3",
+    "question": "Fit (abstrait, ici)",
+    "reponse": "Correspondre / convenir"
+  },
+  {
+    "id": "4",
+    "question": "To demand",
+    "reponse": "Exiger"
+  },
+  {
+    "id": "5",
+    "question": "Among us",
+    "reponse": "Parmi nous"
+  },
+  {
+    "id": "6",
+    "question": "Turn away",
+    "reponse": "Se détourner"
+  },
+  {
+    "id": "7",
+    "question": "To sink / sank / sunk",
+    "reponse": "Couler (vers le fond)"
+  },
+  {
+    "id": "8",
+    "question": "The blood flowed",
+    "reponse": "Le sang a coulé"
+  },
+  {
+    "id": "9",
+    "question": "Blood was spilled",
+    "reponse": "Du sang a été versé"
+  },
+  {
+    "id": "10",
+    "question": "The ground was covered in blood",
+    "reponse": "Le sol était couvert de sang"
+  }
+]

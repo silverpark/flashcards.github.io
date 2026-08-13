@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "To bridge (verbe)",
+    "reponse": "Combler"
+  },
+  {
+    "id": "2",
+    "question": "The chasm",
+    "reponse": "Le fossé"
+  },
+  {
+    "id": "3",
+    "question": "To haunt",
+    "reponse": "Hanter / tourmenter / obséder"
+  },
+  {
+    "id": "4",
+    "question": "Righteousness",
+    "reponse": "Justice / Droiture"
+  },
+  {
+    "id": "5",
+    "question": "Drunkenness",
+    "reponse": "Ivresse"
+  },
+  {
+    "id": "6",
+    "question": "Entertainment",
+    "reponse": "Divertissement"
+  },
+  {
+    "id": "7",
+    "question": "Ground",
+    "reponse": "Sol / Terrain / Fondement (selon contexte)"
+  },
+  {
+    "id": "8",
+    "question": "Grounded",
+    "reponse": "Ancré / les pieds sur terre"
+  },
+  {
+    "id": "9",
+    "question": "Leverage",
+    "reponse": "Effet de levier"
+  },
+  {
+    "id": "10",
+    "question": "Taken me",
+    "reponse": "Emmené"
+  }
+]

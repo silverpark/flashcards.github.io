@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "The moment",
+    "reponse": "Dès que / au moment où"
+  },
+  {
+    "id": "2",
+    "question": "As soon as",
+    "reponse": "Dès que"
+  },
+  {
+    "id": "3",
+    "question": "To run",
+    "reponse": "Courir / courir pour s'échapper (selon contexte)"
+  },
+  {
+    "id": "4",
+    "question": "Get lost",
+    "reponse": "Va-t'en / dégage"
+  },
+  {
+    "id": "5",
+    "question": "Threaten",
+    "reponse": "Menacer"
+  },
+  {
+    "id": "6",
+    "question": "Threat",
+    "reponse": "Menace"
+  },
+  {
+    "id": "7",
+    "question": "Threatened",
+    "reponse": "Menacé"
+  },
+  {
+    "id": "8",
+    "question": "hail (archaïque) / hello / greet (moderne)",
+    "reponse": "Saluer / acclamer (gloire à / salut à)"
+  },
+  {
+    "id": "9",
+    "question": "To land",
+    "reponse": "Atterrir / tomber"
+  },
+  {
+    "id": "10",
+    "question": "Butter-side",
+    "reponse": "Côté avec du beurre"
+  }
+]

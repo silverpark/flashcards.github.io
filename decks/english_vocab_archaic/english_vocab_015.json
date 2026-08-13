@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "We'd (= we would)",
+    "reponse": "We would"
+  },
+  {
+    "id": "2",
+    "question": "We'd (= we had)",
+    "reponse": "We had"
+  },
+  {
+    "id": "3",
+    "question": "We'd break it",
+    "reponse": "Nous briserons ça"
+  },
+  {
+    "id": "4",
+    "question": "We'd finished",
+    "reponse": "Nous avions fini"
+  },
+  {
+    "id": "5",
+    "question": "About",
+    "reponse": "Au sujet de / à propos de / symbole"
+  },
+  {
+    "id": "6",
+    "question": "What if",
+    "reponse": "Et si"
+  },
+  {
+    "id": "7",
+    "question": "Stood",
+    "reponse": "Se trouvait"
+  },
+  {
+    "id": "8",
+    "question": "Threshold",
+    "reponse": "Seuil"
+  },
+  {
+    "id": "9",
+    "question": "To stand / stood / stood",
+    "reponse": "Se tenir"
+  },
+  {
+    "id": "10",
+    "question": "To tear / tore / torn",
+    "reponse": "Déchirer"
+  }
+]

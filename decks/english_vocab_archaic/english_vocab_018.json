@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "I dare you to jump!",
+    "reponse": "Je te mets au défi de sauter !"
+  },
+  {
+    "id": "2",
+    "question": "Boast",
+    "reponse": "Se vanter / posséder fièrement"
+  },
+  {
+    "id": "3",
+    "question": "Fight",
+    "reponse": "Se battre / combat / lutte"
+  },
+  {
+    "id": "4",
+    "question": "Strike",
+    "reponse": "Frapper / attaquer / surprendre / frapper comme un événement"
+  },
+  {
+    "id": "5",
+    "question": "Firm",
+    "reponse": "Ferme / solide / résolu"
+  },
+  {
+    "id": "6",
+    "question": "To rebuke",
+    "reponse": "Réprimander"
+  },
+  {
+    "id": "7",
+    "question": "To stay",
+    "reponse": "Rester / séjourner / demeurer (insiste sur la persistance ou la continuité d'un état)"
+  },
+  {
+    "id": "8",
+    "question": "To remain",
+    "reponse": "Rester / demeurer / continuer d'être (insiste sur le lieu ou l'action de rester quelque part)"
+  },
+  {
+    "id": "9",
+    "question": "Unbroken",
+    "reponse": "Inébranlable"
+  },
+  {
+    "id": "10",
+    "question": "To rely",
+    "reponse": "Compter sur / se fier à / dépendre de"
+  }
+]

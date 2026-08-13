@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Thirsty","reponse":"Assoiffé (adjectif) — \"soif\" seul est le nom (thirst)"},
+  {"id":"2","question":"Guilty","reponse":"Coupable"},
+  {"id":"3","question":"Great insight","reponse":"Excellente analyse / Remarque pertinente (insight = perspicacité, pas juste \"idée\")"},
+  {"id":"4","question":"Beware","reponse":"Méfiez-vous"},
+  {"id":"5","question":"Laugh","reponse":"Rire"},
+  {"id":"6","question":"Laughable","reponse":"Ridicule / Risible"},
+  {"id":"7","question":"Streaks","reponse":"Série (de victoires, d'événements...) / Traînée (visuelle)"},
+  {"id":"8","question":"Stick to","reponse":"S'en tenir à / Persévérer dans"},
+  {"id":"9","question":"Why bother","reponse":"Pourquoi s'embêter"},
+  {"id":"10","question":"To overlook","reponse":"Négliger / Laisser passer"}
+]

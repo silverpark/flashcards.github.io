@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "question": "[FUSIONNÉE] Quelle est la différence entre Task et async/await, et doit-on toujours les utiliser ensemble ?",
+    "reponse": "Task est l'OBJET qui représente l'opération en cours (état, résultat). async/await est la SYNTAXE pour la gérer facilement. On n'est pas obligé de les utiliser ensemble : une méthode peut renvoyer une Task sans le mot-clé async (pass-through). En revanche, utiliser await impose async et le retour d'une Task."
+  },
+  {
+    "id": "2",
+    "question": "Différence entre Task et Task<T> ?",
+    "reponse": "Task = représente une opération asynchrone qui NE RETOURNE RIEN (équivalent async de void). Task<T> = représente une opération asynchrone qui RETOURNE une valeur de type T."
+  },
+  {
+    "id": "3",
+    "question": "[FUSIONNÉE] Pourquoi utiliser async/await et que signifie 'libérer le thread' sous forte charge ?",
+    "reponse": "Pour faire du code non-bloquant. Lors d'une attente E/S (I/O), le thread retourne au Thread Pool pour traiter d'autres requêtes au lieu de rester bloqué. Sous forte charge, cela évite la saturation du serveur et permet de gérer des milliers de requêtes simultanées avec peu de threads."
+  },
+  {
+    "id": "4",
+    "question": "[FUSIONNÉE] Que fait await et pourquoi la méthode renvoie-t-elle immédiatement une Task à l'appelant ?",
+    "reponse": "await met en pause la méthode. Comme le résultat n'existe pas encore à cet instant, la méthode renvoie immédiatement un objet Task (vide) à l'appelant pour lui permettre de suivre l'avancement. Dès que le travail est fini, l'exécution reprend après la ligne du await."
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi Dispose sur HttpResponseMessage ?",
+    "reponse": "Pour LIBÉRER les ressources non managées (streams réseau, connexions) dès que la réponse n'est plus utile, plutôt que d'attendre le Garbage Collector. Généralement fait automatiquement via using."
+  },
+  {
+    "id": "6",
+    "question": "[FUSIONNÉE] Qu'est-ce qu'un CancellationToken et comment déclenche-t-on une annulation ?",
+    "reponse": "C'est un objet transmis à une opération asynchrone pour l'annuler en cours de route (timeout, requête abandonnée). L'annulation est déclenchée via un CancellationTokenSource en appelant .Cancel(), ce qui lève une OperationCanceledException."
+  },
+  {
+    "id": "7",
+    "question": "ConfigureAwait(false), à quoi ça sert ?",
+    "reponse": "Dit à await de NE PAS revenir sur le contexte de synchronisation d'origine (ex: thread UI) après l'attente. Utile dans les libs/backend pour éviter des deadlocks et améliorer la perf."
+  },
+  {
+    "id": "8",
+    "question": "Que se passe-t-il si on oublie await devant un Task ?",
+    "reponse": "La méthode continue son exécution SANS ATTENDRE le résultat (fire-and-forget). Risque : exceptions silencieuses, résultats incomplets, comportements imprévisibles."
+  },
+  {
+    "id": "9",
+    "question": "Que génère le compilateur C# sous le capot lorsqu'on utilise le mot-clé async ?",
+    "reponse": "Le compilateur réécrit la méthode sous forme d'une machine à états. Elle sauvegarde la position d'exécution et les variables locales juste avant le await pour pouvoir reprendre exactement au même endroit une fois la Task terminée."
+  },
+  {
+    "id": "10",
+    "question": "Pourquoi l'utilisation de async void est-elle strongly déconseillée (sauf pour les événements) ?",
+    "reponse": "Parce qu'aucun objet Task n'est créé. L'appelant ne peut pas savoir quand la méthode se termine ni intercepter les exceptions avec un try/catch, ce qui peut faire planter toute l'application."
+  },
+  {
+    "id": "11",
+    "question": "Pendant l'attente d'une réponse réseau (I/O), combien de threads C# et de CPU sont utilisés ?",
+    "reponse": "0 thread C# et 0% de CPU C#. L'exécution est déléguée au matériel (carte réseau) et au système d'exploitation. Aucun thread de l'application ne consomme de ressources pendant l'attente."
+  },
+  {
+    "id": "12",
+    "question": "Comment le runtime C# sait-il qu'il doit reprendre le code après la fin d'un appel réseau asynchrone ?",
+    "reponse": "La carte réseau reçoit les données et déclenche une interruption matérielle au niveau de l'OS. L'OS notifie le runtime C# (via un Completion Port), qui attribue un thread disponible du pool pour reprendre la machine à états."
+  },
+  {
+    "id": "13",
+    "question": "Est-ce le même thread qui reprend l'exécution du code après un await ?",
+    "reponse": "Pas nécessairement. Dès que l'opération est terminée, le runtime prend n'importe quel thread disponible dans le Thread Pool pour exécuter la suite de la méthode (sauf contrainte spécifique de contexte de synchronisation, comme dans les interfaces UI)."
+  },
+  {
+    "id": "14",
+    "question": "Quel est le risque principal d'utiliser .Result ou .Wait() sur une Task au lieu de await ?",
+    "reponse": "Cela bloque le thread de manière synchrone en attendant la fin de la Task. Cela détruit le bénéfice de l'asynchronisme et peut provoquer des blocages complets de l'application (deadlocks) si un SynchronizationContext est impliqué."
+  },
+  {
+    "id": "15",
+    "question": "[FUSIONNÉE] Comment lancer plusieurs Task en parallèle et attendre qu'elles soient toutes terminées ?",
+    "reponse": "En utilisant Task.WhenAll(t1, t2, t3). On lance les méthodes asynchrones sans mettre await immédiatement (ce qui les exécute en parallèle), puis on fait await sur Task.WhenAll(...) en leur passant la liste des tâches à attendre."
+  },
+  {
+    "id":"16",
+    "question":"Que signifie Task<IActionResult> ?",
+    "reponse":"Le retour d'une action ASYNCHRONE dans un Controller ASP.NET. Task = opération asynchrone en cours ; IActionResult = un résultat HTTP générique (Ok, NotFound, BadRequest, etc.)."
+  }
+]

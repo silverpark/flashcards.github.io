@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "To fall / fell / fallen",
+    "reponse": "Tomber"
+  },
+  {
+    "id": "2",
+    "question": "slain (archaïque) / killed (moderne)",
+    "reponse": "Tué"
+  },
+  {
+    "id": "3",
+    "question": "The stage",
+    "reponse": "Le terrain / la scène"
+  },
+  {
+    "id": "4",
+    "question": "Redeemed",
+    "reponse": "Racheté"
+  },
+  {
+    "id": "5",
+    "question": "Cruelty",
+    "reponse": "Cruauté"
+  },
+  {
+    "id": "6",
+    "question": "Is no longer",
+    "reponse": "N'est plus"
+  },
+  {
+    "id": "7",
+    "question": "To curse",
+    "reponse": "Maudire / jurer"
+  },
+  {
+    "id": "8",
+    "question": "Cursed",
+    "reponse": "Maudit, ensorcelé"
+  },
+  {
+    "id": "9",
+    "question": "To bury",
+    "reponse": "Enterrer"
+  },
+  {
+    "id": "10",
+    "question": "Buried",
+    "reponse": "Enterré / enfoui / caché"
+  }
+]

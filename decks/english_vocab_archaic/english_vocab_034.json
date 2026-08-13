@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Cast (comparé à throw)",
+    "reponse": "Jeter (avec intention / autorité / force symbolique)"
+  },
+  {
+    "id": "2",
+    "question": "Craft",
+    "reponse": "Art / métier / savoir-faire"
+  },
+  {
+    "id": "3",
+    "question": "To fund",
+    "reponse": "Financer"
+  },
+  {
+    "id": "4",
+    "question": "Orphanages",
+    "reponse": "Orphelinats"
+  },
+  {
+    "id": "5",
+    "question": "Sinful",
+    "reponse": "Pécheur / coupable de péché / moralement fautif"
+  },
+  {
+    "id": "6",
+    "question": "Embodied",
+    "reponse": "Incarnait / personnifiait"
+  },
+  {
+    "id": "7",
+    "question": "Restraint",
+    "reponse": "La retenue / la maîtrise de soi"
+  },
+  {
+    "id": "8",
+    "question": "Willing",
+    "reponse": "Disposé"
+  },
+  {
+    "id": "9",
+    "question": "Belongs to",
+    "reponse": "Appartient à"
+  },
+  {
+    "id": "10",
+    "question": "Most of the time",
+    "reponse": "La plupart du temps"
+  }
+]

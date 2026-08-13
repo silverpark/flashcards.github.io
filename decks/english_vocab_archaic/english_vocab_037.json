@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Walk away",
+    "reponse": "Partir calmement"
+  },
+  {
+    "id": "2",
+    "question": "Run away",
+    "reponse": "S'enfuir rapidement"
+  },
+  {
+    "id": "3",
+    "question": "Wicked",
+    "reponse": "Malveillant / Méchant"
+  },
+  {
+    "id": "4",
+    "question": "Shattered",
+    "reponse": "Épuisé / brisé / anéanti"
+  },
+  {
+    "id": "5",
+    "question": "The inside out",
+    "reponse": "L'envers / à l'envers"
+  },
+  {
+    "id": "6",
+    "question": "Gossip",
+    "reponse": "Commérage / Ragot"
+  },
+  {
+    "id": "7",
+    "question": "Hunger",
+    "reponse": "Faim"
+  },
+  {
+    "id": "8",
+    "question": "Plainly",
+    "reponse": "Clairement / simplement"
+  },
+  {
+    "id": "9",
+    "question": "Make it count",
+    "reponse": "Fait de sorte que ça compte"
+  },
+  {
+    "id": "10",
+    "question": "The self-righteous",
+    "reponse": "Le moralisateur"
+  }
+]

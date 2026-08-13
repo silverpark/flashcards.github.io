@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "A soft-spoken man",
+    "reponse": "Un homme posé, calme en paroles"
+  },
+  {
+    "id": "2",
+    "question": "Grit",
+    "reponse": "Décrit exactement la tension interne, physique et émotionnelle"
+  },
+  {
+    "id": "3",
+    "question": "Grit their teeth",
+    "reponse": "Serrer les dents"
+  },
+  {
+    "id": "4",
+    "question": "Bite your lip",
+    "reponse": "Mordre sa lèvre"
+  },
+  {
+    "id": "5",
+    "question": "Flee / fled / fled",
+    "reponse": "Fuir / s'enfuir"
+  },
+  {
+    "id": "6",
+    "question": "Boxing ring",
+    "reponse": "Ring de boxe"
+  },
+  {
+    "id": "7",
+    "question": "Fight (résultat inconnu)",
+    "reponse": "Se battre (résultat inconnu)"
+  },
+  {
+    "id": "8",
+    "question": "Outfight",
+    "reponse": "Se battre mieux que / vaincre par le combat"
+  },
+  {
+    "id": "9",
+    "question": "Outdistance",
+    "reponse": "Distancer, laisser loin derrière, être nettement en avance sur quelqu'un"
+  },
+  {
+    "id": "10",
+    "question": "Outnumbered",
+    "reponse": "Infériorité numérique"
+  }
+]

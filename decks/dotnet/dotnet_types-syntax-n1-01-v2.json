@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Que signifie le mot-clé internal et comment donner accès à un projet de TU ?",
+    "reponse": "Visible UNIQUEMENT dans le même assembly (projet). Pour autoriser un projet de tests unitaires à voir les types/membres 'internal', on utilise l'attribut [assembly: InternalsVisibleTo(\"MonProjet.Tests\")] dans l'assembly source."
+  },
+  {
+    "id": "2",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Qu'est-ce qu'un Primary Constructor (Constructeur Primaire) en C# 12+ ?",
+    "reponse": "Une syntaxe concise permettant de déclarer des paramètres directement sur la classe/struct (ex: public class Service(ILogger logger)). Les paramètres sont utilisables dans toute la classe (champs, méthodes) sans déclarer explicitement de champs privés."
+  },
+  {
+    "id": "3",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Comment fonctionne la déclaration 'using var' (using declaration) ?",
+    "reponse": "C'est un sucre syntaxique pour IDisposable. La ressource est automatiquement libérée (Dispose) à la FIN DU BLOC COURANT (ex: fin de méthode), éliminant le besoin d'accolades englobantes comme dans 'using (...) { }'."
+  },
+  {
+    "id": "4",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Qu'est-ce qu'un record et quelle est la différence entre 'record class' et 'record struct' ?",
+    "reponse": "Un type immuable par défaut axé sur les données, avec égalité par VALEUR (pas par référence). Par défaut 'record' est un type référence (record class / Heap). En précisant 'record struct', cela devient un type valeur (Stack) avec égalité par valeur."
+  },
+  {
+    "id": "5",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Qu'est-ce qu'un init-only setter (init) ?",
+    "reponse": "Propriété modifiable uniquement à l'instanciation via l'initialiseur d'objet (new MonObj { Prop = val }). Une fois la construction terminée, la propriété devient immuable (lecture seule)."
+  },
+  {
+    "id": "6",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Comment fonctionnent les Nullable Reference Types (string?) ?",
+    "reponse": "Mécanisme d'analyse statique à la compilation. 'string' indique un type non-null garanti, 'string?' autorise 'null'. Si activé (#nullable enable), le compilateur génère des warnings si un risque de NullReferenceException est détecté."
+  },
+  {
+    "id": "7",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Qu'est-ce que le Pattern Matching moderne en C# (is, switch expression) ?",
+    "reponse": "Syntaxe permettant de vérifier un type, déconstruire et appliquer des filtres conditionnels. Ex: 'if (obj is Person { Age: > 18 } p)' ou 'valeur switch { 0 => \"zero\", > 0 => \"positif\" }'."
+  },
+  {
+    "id": "8",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "Quelle est la différence entre 'readonly' et 'const' ?",
+    "reponse": "const est évalué à la COMPILATION (valeur primitive/string inscrite en dur dans l'IL). readonly est assigné à l'EXÉCUTION (dans la déclaration ou le constructeur) et peut contenir des instances d'objets complexes."
+  },
+  {
+    "id": "9",
+    "categorie": "Syntaxe Idiomatique",
+    "question": "À quoi sert DateTime.SpecifyKind ?",
+    "reponse": "Modifie la propriété .Kind d'un DateTime (Utc, Local, Unspecified) SANS altérer ses heures/minutes. Utile lorsqu'on lit une date sans fuseau explicite en BDD et qu'on doit indiquer 'considère cette date comme UTC'."
+  },
+  {
+    "id":"10",
+    "question":"Que signifie var ?",
+    "reponse":"Le compilateur DÉDUIT automatiquement le type de la variable à partir de sa valeur. Le type reste STATIQUE et FIXE, ce n'est pas du typage dynamique."
+  }
+]

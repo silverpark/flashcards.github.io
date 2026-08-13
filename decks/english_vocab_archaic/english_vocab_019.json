@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "To lean",
+    "reponse": "S'appuyer / se pencher / se reposer sur / s'incliner"
+  },
+  {
+    "id": "2",
+    "question": "Lean on/upon",
+    "reponse": "S'appuyer sur / se fier à / dépendre de"
+  },
+  {
+    "id": "3",
+    "question": "Wholly",
+    "reponse": "Entièrement / totalement"
+  },
+  {
+    "id": "4",
+    "question": "Might",
+    "reponse": "Puissance / force / pouvoir"
+  },
+  {
+    "id": "5",
+    "question": "Mighty",
+    "reponse": "Puissant"
+  },
+  {
+    "id": "6",
+    "question": "Almighty",
+    "reponse": "Tout-puissant"
+  },
+  {
+    "id": "7",
+    "question": "To flee",
+    "reponse": "Fuir / s'enfuir / échapper rapidement"
+  },
+  {
+    "id": "8",
+    "question": "To wield",
+    "reponse": "Manier / brandir / exercer"
+  },
+  {
+    "id": "9",
+    "question": "You wield the same authority",
+    "reponse": "Tu manies/exerces la même autorité"
+  },
+  {
+    "id": "10",
+    "question": "Fair",
+    "reponse": "Juste"
+  }
+]

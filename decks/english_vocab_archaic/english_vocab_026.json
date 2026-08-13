@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Get ready",
+    "reponse": "Se préparer"
+  },
+  {
+    "id": "2",
+    "question": "Get lost",
+    "reponse": "Se perdre"
+  },
+  {
+    "id": "3",
+    "question": "Get + participe passé",
+    "reponse": "Subir une action (passif)"
+  },
+  {
+    "id": "4",
+    "question": "Get married",
+    "reponse": "Se marier"
+  },
+  {
+    "id": "5",
+    "question": "Get arrested",
+    "reponse": "Se faire arrêter"
+  },
+  {
+    "id": "6",
+    "question": "Get fired",
+    "reponse": "Se faire licencier"
+  },
+  {
+    "id": "7",
+    "question": "Get + nom / pronom",
+    "reponse": "Obtenir / recevoir"
+  },
+  {
+    "id": "8",
+    "question": "Get a gift",
+    "reponse": "Recevoir un cadeau"
+  },
+  {
+    "id": "9",
+    "question": "Get a job",
+    "reponse": "Décrocher un emploi"
+  },
+  {
+    "id": "10",
+    "question": "Get it",
+    "reponse": "Comprendre / l'obtenir"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Look over",
+    "reponse": "Jeter un coup d'œil"
+  },
+  {
+    "id": "2",
+    "question": "Look up",
+    "reponse": "Chercher / lever les yeux"
+  },
+  {
+    "id": "3",
+    "question": "Look into",
+    "reponse": "Enquêter"
+  },
+  {
+    "id": "4",
+    "question": "Unforgiving",
+    "reponse": "Qui ne pardonne pas / impitoyable / sans pitié / sévère"
+  },
+  {
+    "id": "5",
+    "question": "To scream",
+    "reponse": "Crier"
+  },
+  {
+    "id": "6",
+    "question": "Care",
+    "reponse": "Être attentif / faire attention / se soucier"
+  },
+  {
+    "id": "7",
+    "question": "Do you care?",
+    "reponse": "Ça t'importe ?"
+  },
+  {
+    "id": "8",
+    "question": "Why should I care?",
+    "reponse": "Pourquoi ça devrait me toucher ?"
+  },
+  {
+    "id": "9",
+    "question": "Care about",
+    "reponse": "Se soucier de"
+  },
+  {
+    "id": "10",
+    "question": "Care for",
+    "reponse": "Prendre soin / apprécier"
+  }
+]

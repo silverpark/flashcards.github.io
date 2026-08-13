@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Fangs",
+    "reponse": "Crocs"
+  },
+  {
+    "id": "2",
+    "question": "Softly",
+    "reponse": "Doucement"
+  },
+  {
+    "id": "3",
+    "question": "Snapped",
+    "reponse": "Craquer / briser"
+  },
+  {
+    "id": "4",
+    "question": "Fierce",
+    "reponse": "Féroce"
+  },
+  {
+    "id": "5",
+    "question": "Knock",
+    "reponse": "Coup léger"
+  },
+  {
+    "id": "6",
+    "question": "Rubble",
+    "reponse": "Débris"
+  },
+  {
+    "id": "7",
+    "question": "Unaware",
+    "reponse": "Inconscient"
+  },
+  {
+    "id": "8",
+    "question": "To bind",
+    "reponse": "Lier / ligoter"
+  },
+  {
+    "id": "9",
+    "question": "Enjoy",
+    "reponse": "Apprécier"
+  },
+  {
+    "id": "10",
+    "question": "Meant (adj)",
+    "reponse": "Censé / supposé"
+  }
+]

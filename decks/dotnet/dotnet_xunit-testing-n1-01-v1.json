@@ -1,0 +1,4 @@
+[
+  {"id":"1","question":"Quelle est la différence entre [Fact] et [Theory] ?","reponse":"[Fact] = un test SIMPLE, sans paramètre, qui teste un seul scénario. [Theory] = un test PARAMÉTRÉ, exécuté plusieurs fois avec des données différentes (fournies via [InlineData], [MemberData], etc.)."},
+  {"id":"2","question":"À quoi sert [InlineData] ?","reponse":"Fournit un JEU DE DONNÉES directement dans l'attribut pour un test [Theory]. Chaque [InlineData] génère UNE exécution du test avec ces valeurs en paramètres."}
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Whichever",
+    "reponse": "N'importe lequel / le/laquelle que ce soit / quel que soit"
+  },
+  {
+    "id": "2",
+    "question": "Real",
+    "reponse": "Réel"
+  },
+  {
+    "id": "3",
+    "question": "Realm",
+    "reponse": "Royaume"
+  },
+  {
+    "id": "4",
+    "question": "To betray",
+    "reponse": "Trahir"
+  },
+  {
+    "id": "5",
+    "question": "Released",
+    "reponse": "Libéré"
+  },
+  {
+    "id": "6",
+    "question": "To lend",
+    "reponse": "Prêter"
+  },
+  {
+    "id": "7",
+    "question": "unto him (archaïque) / to him (moderne)",
+    "reponse": "Vers lui / à lui (style biblique)"
+  },
+  {
+    "id": "8",
+    "question": "Into him",
+    "reponse": "Être attiré par lui"
+  },
+  {
+    "id": "9",
+    "question": "Clean",
+    "reponse": "Propre, pur, nettoyé, sans tache, sain"
+  },
+  {
+    "id": "10",
+    "question": "Unclean",
+    "reponse": "Impur, sale, moralement ou spirituellement souillé (biblique)"
+  }
+]

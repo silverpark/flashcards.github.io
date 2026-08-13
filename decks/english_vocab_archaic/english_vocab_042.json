@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Almost",
+    "reponse": "Presque"
+  },
+  {
+    "id": "2",
+    "question": "The day in between",
+    "reponse": "Le jour entre les deux"
+  },
+  {
+    "id": "3",
+    "question": "Cheered",
+    "reponse": "Acclamé"
+  },
+  {
+    "id": "4",
+    "question": "To lay",
+    "reponse": "Poser"
+  },
+  {
+    "id": "5",
+    "question": "To lay down",
+    "reponse": "S'allonger"
+  },
+  {
+    "id": "6",
+    "question": "To lay in",
+    "reponse": "Se reposer / se coucher"
+  },
+  {
+    "id": "7",
+    "question": "Idle",
+    "reponse": "Inactif"
+  },
+  {
+    "id": "8",
+    "question": "Fulfilled",
+    "reponse": "Accompli"
+  },
+  {
+    "id": "9",
+    "question": "Cowards",
+    "reponse": "Lâches"
+  },
+  {
+    "id": "10",
+    "question": "Who hid",
+    "reponse": "Qui s'est caché"
+  }
+]

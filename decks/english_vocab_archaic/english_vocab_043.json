@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quiet",
+    "reponse": "Calme"
+  },
+  {
+    "id": "2",
+    "question": "The ones",
+    "reponse": "Ceux"
+  },
+  {
+    "id": "3",
+    "question": "To keep",
+    "reponse": "Garder/conserver"
+  },
+  {
+    "id": "4",
+    "question": "To flinch",
+    "reponse": "Tressaillir"
+  },
+  {
+    "id": "5",
+    "question": "Allegiance",
+    "reponse": "Allégeance"
+  },
+  {
+    "id": "6",
+    "question": "To drift",
+    "reponse": "Dériver"
+  },
+  {
+    "id": "7",
+    "question": "Rules (nom)",
+    "reponse": "Règles"
+  },
+  {
+    "id": "8",
+    "question": "To rule",
+    "reponse": "Régner / gouverner (général)"
+  },
+  {
+    "id": "9",
+    "question": "Reign",
+    "reponse": "Régner (royal / spirituel)"
+  },
+  {
+    "id": "10",
+    "question": "Govern",
+    "reponse": "Gouverner (politique)"
+  }
+]

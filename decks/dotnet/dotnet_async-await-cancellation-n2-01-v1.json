@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Quelle est la différence fondamentale entre Task et async/await ?",
+    "reponse": "Task est l'objet (Future/Promise) représentant l'opération en cours. async/await est le sucre syntaxique pilotant la machine à états. On peut retourner une Task sans le mot-clé async (pass-through de tâche sans allocation de machine à états)."
+  },
+  {
+    "id": "2",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Quelle est la différence d'usage entre Task et Task<T> ?",
+    "reponse": "Task représente une opération sans valeur de retour (équivalent d'un void asynchrone). Task<T> représente une opération retournant un résultat de type T une fois résolue."
+  },
+  {
+    "id": "3",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Pourquoi la méthode renvoie-t-elle immédiatement une Task à l'appelant au moment du await ?",
+    "reponse": "Au moment du await sur de l'I/O non terminée, la méthode s'interrompt et renvoie immédiatement l'instance de Task (incomplète) à l'appelant pour qu'il puisse continuer son exécution ou empiler ses propres continuations."
+  },
+  {
+    "id": "4",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Que se passe-t-il si l'on oublie le mot-clé await devant une Task ?",
+    "reponse": "La tâche est exécutée en arrière-plan sans attente (Fire-and-Forget). Risque majeur : exceptions non observées (unobserved task exceptions), race conditions et incohérence d'état."
+  },
+  {
+    "id": "5",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Comment fonctionne l'annulation coopérative via CancellationToken ?",
+    "reponse": "Un CancellationToken est passé aux méthodes asynchrones. L'annulation est déclenchée par un CancellationTokenSource.Cancel(), ce qui lève une OperationCanceledException interceptable par l'appelant."
+  },
+  {
+    "id": "6",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Comment exécuter plusieurs tâches en parallèle et attendre leur résolution globale ?",
+    "reponse": "En instanciant les Task sans await immédiat, puis en utilisant await Task.WhenAll(t1, t2, t3). Cela agrège les tâches et lève une AggregateException si plusieurs tâches échouent."
+  },
+  {
+    "id": "7",
+    "categorie": "Implémentation & Usage Idiomatique",
+    "question": "Pourquoi l'usage de 'async void' est-il un anti-pattern (sauf handlers d'événements) ?",
+    "reponse": "Parce qu'aucune Task n'est retournée. L'appelant ne peut ni attendre la fin de l'exécution, ni intercepter les exceptions dans un bloc try/catch classique, provoquant le crash direct du process (AppDomain)."
+  },
+  {
+    "id": "8",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Que génère le compilateur C# sous le capot pour une méthode 'async' ?",
+    "reponse": "Il génère une structure (struct) implémentant IAsyncStateMachine. La méthode est découpée en blocs via un switch(state). Les variables locales deviennent des champs de la structure pour maintenir leur durée de vie sur le Heap."
+  },
+  {
+    "id": "9",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Pourquoi dit-on qu'un appel I/O asynchrone consomme 0 thread et 0% CPU pendant l'attente ?",
+    "reponse": "Car le thread C# est immédiatement restitué au ThreadPool. L'attente est gérée au niveau matériel/OS. Aucun polling n'est effectué côté CPU pendant le transfert de données."
+  },
+  {
+    "id": "10",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Quel est le mécanisme OS/CLR utilisé pour réveiller une continuation asynchrone après une I/O ?",
+    "reponse": "L'équipement (ex: carte réseau) émet une interruption matérielle. L'OS capture l'événement et notifie le CLR via un IO Completion Port (Windows) ou epoll (Linux), qui pousse la continuation sur le ThreadPool."
+  },
+  {
+    "id": "11",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Est-ce le même thread qui reprend l'exécution après un await ?",
+    "reponse": "Pas nécessairement. Par défaut dans le ThreadPool, n'importe quel thread libre peut reprendre la continuation, sauf si un SynchronizationContext spécifique impose de capturer et restaurer le thread d'origine (ex: UI)."
+  },
+  {
+    "id": "12",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Quel est le rôle précis de ConfigureAwait(false) ?",
+    "reponse": "Il indique au runtime de ne pas capturer le SynchronizationContext courant pour la continuation. Cela évite les basculements de contexte inutiles, améliore les perfs et prévient les deadlocks en bibliothèques."
+  },
+  {
+    "id": "13",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Pourquoi l'appel synchrone sur du code async (.Result ou .Wait()) provoque-t-il des deadlocks ?",
+    "reponse": "Le thread appelant se bloque en attendant la Task. Si la Task cherche à reprendre sur ce même thread via son SynchronizationContext, elle se retrouve bloquée derrière le thread en attente : deadlock."
+  },
+  {
+    "id": "14",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Pourquoi la gestion du Garbage Collector est-elle impactée par les méthodes async ?",
+    "reponse": "Chaque await sur une méthode async crée des allocations sur le Heap (instances de Task, boîtes de machines à états, délégués de continuation) si l'opération ne se termine pas de façon synchrone."
+  },
+  {
+    "id": "15",
+    "categorie": "Architecture, CLR & Internals",
+    "question": "Dans quel scénario d'optimisation doit-on préférer ValueTask<T> à Task<T> ?",
+    "reponse": "Quand la méthode se termine très souvent de manière synchrone (ex: résultat en cache). ValueTask est un type valeur (struct) qui évite l'allocation d'un objet Task sur le Heap dans le chemin synchrone."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Togetherness",
+    "reponse": "Être ensemble, la cohésion, la complicité, le sentiment d'unité"
+  },
+  {
+    "id": "2",
+    "question": "Sake",
+    "reponse": "Bien, cause, intérêt, motif, raison"
+  },
+  {
+    "id": "3",
+    "question": "For division's sake",
+    "reponse": "Pour le bien de la division / uniquement pour la division"
+  },
+  {
+    "id": "4",
+    "question": "To be torn",
+    "reponse": "Être déchiré (sens physique et émotionnel)"
+  },
+  {
+    "id": "5",
+    "question": "I'm torn between staying and leaving.",
+    "reponse": "Être déchiré / hésitant"
+  },
+  {
+    "id": "6",
+    "question": "To be torn apart",
+    "reponse": "Être complètement déchiré / brisé / séparé, souvent avec une idée violente, totale ou émotionnellement douloureuse."
+  },
+  {
+    "id": "7",
+    "question": "The community was torn apart",
+    "reponse": "Être brisé, séparé violemment"
+  },
+  {
+    "id": "8",
+    "question": "Torn up",
+    "reponse": "Déchiré en morceaux / bouleversé"
+  },
+  {
+    "id": "9",
+    "question": "Rip",
+    "reponse": "Déchirer brutalement"
+  },
+  {
+    "id": "10",
+    "question": "Rip apart",
+    "reponse": "Déchiqueter, détruire violemment"
+  }
+]

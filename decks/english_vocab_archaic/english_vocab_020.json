@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Unfair",
+    "reponse": "Injuste"
+  },
+  {
+    "id": "2",
+    "question": "A witness",
+    "reponse": "Un témoin (d'un événement, d'un crime, d'un accident)"
+  },
+  {
+    "id": "3",
+    "question": "To witness",
+    "reponse": "Être témoin de, voir, assister à"
+  },
+  {
+    "id": "4",
+    "question": "I have come",
+    "reponse": "Je suis venu"
+  },
+  {
+    "id": "5",
+    "question": "There you go",
+    "reponse": "Voilà"
+  },
+  {
+    "id": "6",
+    "question": "To set",
+    "reponse": "Mettre / définir / établir"
+  },
+  {
+    "id": "7",
+    "question": "Set apart",
+    "reponse": "Mis à part / séparé"
+  },
+  {
+    "id": "8",
+    "question": "Apart",
+    "reponse": "De côté / à l'écart"
+  },
+  {
+    "id": "9",
+    "question": "Cheek",
+    "reponse": "La joue"
+  },
+  {
+    "id": "10",
+    "question": "Together",
+    "reponse": "Ensemble (action faite ensemble)"
+  }
+]

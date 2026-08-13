@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Steal","reponse":"Dérober / Voler (en cachette)"},
+  {"id":"2","question":"Rob","reponse":"Voler / Dévaliser (une personne ou un lieu, souvent avec violence ou effraction)"},
+  {"id":"3","question":"No matter","reponse":"Peu importe"},
+  {"id":"4","question":"To disturb","reponse":"Perturber / Déranger"},
+  {"id":"5","question":"Taught","reponse":"Enseigné (passé de \"to teach\")"},
+  {"id":"6","question":"He who","reponse":"Celui qui"},
+  {"id":"7","question":"Those who","reponse":"Ceux qui"},
+  {"id":"8","question":"Whoever","reponse":"Quiconque"},
+  {"id":"9","question":"To cheer you up","reponse":"Pour te remonter le moral"},
+  {"id":"10","question":"A bit","reponse":"Un peu"}
+]

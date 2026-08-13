@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "An altar",
+    "reponse": "Un autel"
+  },
+  {
+    "id": "2",
+    "question": "To drown",
+    "reponse": "Se noyer"
+  },
+  {
+    "id": "3",
+    "question": "Empty (adj)",
+    "reponse": "Vide (décrit quelque chose)"
+  },
+  {
+    "id": "4",
+    "question": "Emptiness (nom)",
+    "reponse": "Vide (le sentiment de vide, le manque)"
+  },
+  {
+    "id": "5",
+    "question": "Bite",
+    "reponse": "Mordre / une morsure / une bouchée"
+  },
+  {
+    "id": "6",
+    "question": "Overtaken",
+    "reponse": "Dépassé / submergé / envahi"
+  },
+  {
+    "id": "7",
+    "question": "Holy",
+    "reponse": "Saint"
+  },
+  {
+    "id": "8",
+    "question": "Holiness",
+    "reponse": "Sainteté"
+  },
+  {
+    "id": "9",
+    "question": "So holy",
+    "reponse": "Si sacré"
+  },
+  {
+    "id": "10",
+    "question": "Fat",
+    "reponse": "Gros / gras"
+  }
+]

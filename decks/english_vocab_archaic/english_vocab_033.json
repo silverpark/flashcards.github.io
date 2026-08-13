@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Trade blows",
+    "reponse": "Échanger des coups"
+  },
+  {
+    "id": "2",
+    "question": "Shames",
+    "reponse": "Fait honte à / condamne / humilie"
+  },
+  {
+    "id": "3",
+    "question": "To shame someone",
+    "reponse": "Couvrir quelqu'un de honte"
+  },
+  {
+    "id": "4",
+    "question": "To shame an idea",
+    "reponse": "Condamner moralement une idée"
+  },
+  {
+    "id": "5",
+    "question": "Submit",
+    "reponse": "Soumettre"
+  },
+  {
+    "id": "6",
+    "question": "Stewardship",
+    "reponse": "Gestion responsable, intendance, responsabilité confiée"
+  },
+  {
+    "id": "7",
+    "question": "Fame",
+    "reponse": "Célébrité / gloire"
+  },
+  {
+    "id": "8",
+    "question": "Heartily",
+    "reponse": "De tout cœur"
+  },
+  {
+    "id": "9",
+    "question": "To provide",
+    "reponse": "Assurer / fournir / offrir / apporter"
+  },
+  {
+    "id": "10",
+    "question": "Throw / threw / thrown",
+    "reponse": "Jeter (geste simple)"
+  }
+]

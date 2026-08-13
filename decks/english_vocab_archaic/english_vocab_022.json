@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Whether",
+    "reponse": "Si / que… ou que…"
+  },
+  {
+    "id": "2",
+    "question": "I don't know whether he's coming",
+    "reponse": "Je ne sais pas s'il vient"
+  },
+  {
+    "id": "3",
+    "question": "Whether you like it or not, it's true",
+    "reponse": "Que tu aimes ou que tu n'aimes pas, c'est vrai"
+  },
+  {
+    "id": "4",
+    "question": "Whether vs if",
+    "reponse": "If = si (condition) / whether = si (deux options possibles)"
+  },
+  {
+    "id": "5",
+    "question": "I don't know if it will rain",
+    "reponse": "Condition"
+  },
+  {
+    "id": "6",
+    "question": "I don't know whether it will rain or not",
+    "reponse": "Deux options"
+  },
+  {
+    "id": "7",
+    "question": "It won't be (it will not be)",
+    "reponse": "Ça ne sera pas"
+  },
+  {
+    "id": "8",
+    "question": "To settle",
+    "reponse": "S'installer / se poser / se déposer"
+  },
+  {
+    "id": "9",
+    "question": "Look at",
+    "reponse": "Regarder, quelque chose de précis (tu fixes un objet, une personne, un point)"
+  },
+  {
+    "id": "10",
+    "question": "Look around",
+    "reponse": "Regarder, autour de soi (tu observes tout l'environnement, sans point précis)"
+  }
+]

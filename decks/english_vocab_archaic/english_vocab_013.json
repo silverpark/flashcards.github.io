@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Cast as",
+    "reponse": "Attribuer un rôle / présenter quelqu'un comme quelque chose"
+  },
+  {
+    "id": "2",
+    "question": "He was cast as the main character",
+    "reponse": "On lui a attribué le rôle principal"
+  },
+  {
+    "id": "3",
+    "question": "Cast down",
+    "reponse": "Faire tomber (down indique le mouvement vers le bas, le fait de faire tomber qqun d'une position élevée)"
+  },
+  {
+    "id": "4",
+    "question": "Cast out",
+    "reponse": "Chasser / expulser"
+  },
+  {
+    "id": "5",
+    "question": "To cast them out",
+    "reponse": "Pour les chasser / pour les expulser"
+  },
+  {
+    "id": "6",
+    "question": "Cast away",
+    "reponse": "Rejeter / Jeter au loin"
+  },
+  {
+    "id": "7",
+    "question": "Cast aside",
+    "reponse": "Écarter / Mettre de côté"
+  },
+  {
+    "id": "8",
+    "question": "all manner (archaïque) / all kinds / all sorts (moderne)",
+    "reponse": "Toutes sortes"
+  },
+  {
+    "id": "9",
+    "question": "Sick",
+    "reponse": "Malade"
+  },
+  {
+    "id": "10",
+    "question": "Sickness",
+    "reponse": "Maladie, au sens état de malaise, \"le fait d'être malade\""
+  }
+]

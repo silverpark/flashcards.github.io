@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Dirty",
+    "reponse": "Sale (moderne, quotidien)"
+  },
+  {
+    "id": "2",
+    "question": "An unclean spirit",
+    "reponse": "Un esprit impur"
+  },
+  {
+    "id": "3",
+    "question": "He felt unclean",
+    "reponse": "Il se sentait moralement impur/souillé"
+  },
+  {
+    "id": "4",
+    "question": "Side",
+    "reponse": "Côté"
+  },
+  {
+    "id": "5",
+    "question": "Aside",
+    "reponse": "De côté / à part / mettre de côté"
+  },
+  {
+    "id": "6",
+    "question": "Aside from that, everything is fine",
+    "reponse": "À part ça, tout va bien"
+  },
+  {
+    "id": "7",
+    "question": "To cast",
+    "reponse": "Jeter / lancer / chasser / expulser"
+  },
+  {
+    "id": "8",
+    "question": "To cast a vote",
+    "reponse": "Voter"
+  },
+  {
+    "id": "9",
+    "question": "Cast your fears aside",
+    "reponse": "Mets tes peurs de côté"
+  },
+  {
+    "id": "10",
+    "question": "Cast your burden upon (archaïque) / on (moderne) the Lord",
+    "reponse": "Dépose ton fardeau sur le Seigneur"
+  }
+]

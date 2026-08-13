@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Overstated",
+    "reponse": "Exagéré / Amplifié / Présenté de manière excessive"
+  },
+  {
+    "id": "2",
+    "question": "Laziness",
+    "reponse": "Plus courant pour parler de paresse au quotidien"
+  },
+  {
+    "id": "3",
+    "question": "Sloth",
+    "reponse": "Paresse avec nuance morale ou péché"
+  },
+  {
+    "id": "4",
+    "question": "Scripture",
+    "reponse": "Les écritures"
+  },
+  {
+    "id": "5",
+    "question": "Far more",
+    "reponse": "Bien plus"
+  },
+  {
+    "id": "6",
+    "question": "Gluttony",
+    "reponse": "Gourmandise"
+  },
+  {
+    "id": "7",
+    "question": "Dethroning",
+    "reponse": "Détrôner"
+  },
+  {
+    "id": "8",
+    "question": "To surrender",
+    "reponse": "Se rendre / capituler"
+  },
+  {
+    "id": "9",
+    "question": "To crave",
+    "reponse": "Avoir très envie de / désirer ardemment / avoir un besoin intense de"
+  },
+  {
+    "id": "10",
+    "question": "To bow",
+    "reponse": "S'incliner"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Grave",
+    "reponse": "Tombe"
+  },
+  {
+    "id": "2",
+    "question": "Trap",
+    "reponse": "Piège général (courant, quotidien)"
+  },
+  {
+    "id": "3",
+    "question": "snare (archaïque) / trap (moderne)",
+    "reponse": "Piège à boucle / piège subtil (plus littéraire, symbolique)"
+  },
+  {
+    "id": "4",
+    "question": "Shows up",
+    "reponse": "Se montrer / apparaître / arriver / pointer le bout de son nez"
+  },
+  {
+    "id": "5",
+    "question": "When fear shows up",
+    "reponse": "Quand la peur se manifeste"
+  },
+  {
+    "id": "6",
+    "question": "Show off",
+    "reponse": "Se vanter / frimer / étaler ses qualités"
+  },
+  {
+    "id": "7",
+    "question": "Show out",
+    "reponse": "Raccompagner quelqu'un / faire sortir"
+  },
+  {
+    "id": "8",
+    "question": "Let me show you out",
+    "reponse": "Laissez-moi vous raccompagner / vous montrer la sortie"
+  },
+  {
+    "id": "9",
+    "question": "Dare",
+    "reponse": "Oser / avoir le courage de / défier"
+  },
+  {
+    "id": "10",
+    "question": "He doesn't dare speak",
+    "reponse": "Il n'ose pas parler"
+  }
+]

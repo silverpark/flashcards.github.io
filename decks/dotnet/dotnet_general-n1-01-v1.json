@@ -10,11 +10,6 @@
     "reponse": "Un mécanisme intégré qui fournit les instances de services aux classes via leur constructeur, plutôt que de les instancier directement, favorisant le découplage."
   },
   {
-    "id": "3",
-    "question": "Différence entre Task et Task<T> ?",
-    "reponse": "Task représente une opération asynchrone sans valeur de retour ; Task<T> représente une opération asynchrone qui retourne une valeur de type T."
-  },
-  {
     "id": "4",
     "question": "Qu'est-ce qu'un middleware dans ASP.NET Core ?",
     "reponse": "Un composant inséré dans le pipeline de traitement des requêtes HTTP, capable de traiter la requête et/ou la réponse avant de passer au composant suivant."
@@ -33,10 +28,5 @@
     "id": "7",
     "question": "Différence entre 'ref' et 'out' en C# ?",
     "reponse": "'ref' exige que la variable soit initialisée avant l'appel ; 'out' n'exige pas d'initialisation préalable mais impose une affectation dans la méthode appelée."
-  },
-  {
-    "id": "8",
-    "question": "Qu'est-ce qu'un enregistrement (record) en C# ?",
-    "reponse": "Un type de référence (ou struct) immuable par défaut, avec égalité basée sur la valeur des propriétés plutôt que sur la référence."
   }
 ]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Fatness",
+    "reponse": "Obésité / corpulence / état de graisse"
+  },
+  {
+    "id": "2",
+    "question": "Master",
+    "reponse": "Maître"
+  },
+  {
+    "id": "3",
+    "question": "Mastery",
+    "reponse": "Maîtrise"
+  },
+  {
+    "id": "4",
+    "question": "Over",
+    "reponse": "Au-dessus / par-dessus"
+  },
+  {
+    "id": "5",
+    "question": "Obedience",
+    "reponse": "Obéissance"
+  },
+  {
+    "id": "6",
+    "question": "Weak",
+    "reponse": "Faible / fragile / peu solide"
+  },
+  {
+    "id": "7",
+    "question": "Weakness",
+    "reponse": "Faiblesse / fragilité / défaut"
+  },
+  {
+    "id": "8",
+    "question": "Weakens",
+    "reponse": "Affaiblit / rend plus faible"
+  },
+  {
+    "id": "9",
+    "question": "Lead",
+    "reponse": "Guider, diriger, conduire"
+  },
+  {
+    "id": "10",
+    "question": "One leads",
+    "reponse": "L'un mène (une personne ou une chose conduit / mène)"
+  }
+]

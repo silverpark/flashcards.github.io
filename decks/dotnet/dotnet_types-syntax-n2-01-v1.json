@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10",
+    "categorie": "Internals & Optimisation",
+    "question": "Pourquoi le compilateur JIT privilégie-t-il les classes 'sealed' pour l'optimisation ?",
+    "reponse": "Si une classe est 'sealed', le compilateur JIT sait qu'aucune sous-classe ne peut la surcharger. Il peut transformer les appels de méthodes virtuelles en appels directs non-virtuels et pratiquer le 'Devirtualization / Inlining'."
+  },
+  {
+    "id": "11",
+    "categorie": "Internals & Optimisation",
+    "question": "Quelle est la nuance piège des Primary Constructors lors d'un héritage ?",
+    "reponse": "Les paramètres d'un Primary Constructor ne sont PAS des champs par défaut. S'ils sont transmis au constructeur de la classe de base (ex: : BaseClass(client, logger)), ils ne sont PAS dupliqués sous forme de champs dans la classe dérivée, évitant les allocations inutiles."
+  },
+  {
+    "id": "12",
+    "categorie": "Internals & Optimisation",
+    "question": "Comment fonctionne l'expression 'with' (Nondestructive Mutation) sur les records ?",
+    "reponse": "L'expression 'with' (ex: var p2 = p1 with { Age = 30 };) utilise un constructeur de copie généré par le compilateur (Clone) puis applique le setter 'init' sur la nouvelle instance sans modifier l'originale."
+  },
+  {
+    "id": "13",
+    "categorie": "Internals & Optimisation",
+    "question": "Quelle est la différence d'exécution entre 'using var' et IAsyncDisposable ('await using') ?",
+    "reponse": "'using var' appelle .Dispose() de façon synchrone. Si la ressource fait de l'E/S lors du nettoyage (ex: flusher un stream réseau), 'await using' appelle .DisposeAsync() de manière asynchrone sans bloquer le thread."
+  },
+  {
+    "id": "14",
+    "categorie": "Internals & Optimisation",
+    "question": "Comment les Nullable Reference Types (NRT) existent-ils au niveau de l'IL (IL Bytecode) ?",
+    "reponse": "Les NRT n'existent qu'à la compilation ! Dans le CLR, 'string' et 'string?' sont exactement le même type de référence (System.String). Le compilateur ajoute simplement l'attribut [Nullable] dans les métadonnées pour que l'IDE prévienne les développeurs."
+  },
+  {
+    "id": "15",
+    "categorie": "Internals & Optimisation",
+    "question": "Quelle est la différence de performance entre 'static class' et instance classique pour des méthodes utilitaires ?",
+    "reponse": "Une classe static ne peut pas être instanciée (0 allocation sur le Heap). Ses méthodes n'ont pas de pointeur 'this' transmis en paramètre caché, réduisant légèrement l'empreinte mémoire sur la pile et facilitant le travail de l'Inliner du JIT."
+  }
+]
