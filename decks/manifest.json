@@ -1,5 +1,7 @@
 [
   {"id": "finance", "label": "Finance", "file": "finance.json", "tags": ["finance", "economy"], "profiles": ["study", "n1"]},
+  {"id": "finance-fiscalite-holding-bornozer", "label": "Fiscalité & Holdings (Bornozer)", "file": "finance/finance_fiscalite_holding_bornozer.json", "tags": ["finance", "fiscalite"], "profiles": ["n2"]},
+  {"id": "finance-bulle-coree-du-sud", "label": "Bulle boursière Corée du Sud", "file": "finance/finance_bulle_coree_du_sud.json", "tags": ["finance", "marches", "coree"], "profiles": ["n1"]},
   {"id": "english-luc-18-001", "label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaic"], "profiles": ["study", "n1"]},
   {"id": "english-vocab-001", "label": "Vocab EN 001", "file": "english_vocab/english_vocab_001.json", "tags": ["english"], "profiles": ["study", "n1"]},
   {"id": "english-vocab-002", "label": "Vocab EN 002", "file": "english_vocab/english_vocab_002.json", "tags": ["english"], "profiles": ["study", "n1"]},

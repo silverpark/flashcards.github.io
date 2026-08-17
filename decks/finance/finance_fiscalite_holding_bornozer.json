@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "question": "Pourquoi Marc Bornozer dit-il que la France est un « paradis fiscal » pour les très hauts patrimoines ?",
+    "reponse": "Parce que l'article 13 de la Déclaration des droits de l'homme empêche le législateur de taxer les revenus latents dans une structure de capitalisation (holding). Un très riche peut donc encapsuler ses revenus dans une holding, vivre sur son capital (compte courant), n'avoir aucun revenu déclaré certaines années et donc ne payer ni impôt sur le revenu ni IFI — contrairement à la Suisse ou l'Angleterre qui « regardent à travers » la structure et taxent quand même (transparence fiscale ou taux notionnel)."
+  },
+  {
+    "id": "2",
+    "question": "Qu'est-ce que l'article 13 de la Déclaration des droits de l'homme et du citoyen, et quel rôle joue-t-il en fiscalité ?",
+    "reponse": "Il pose le principe du consentement à l'impôt et des capacités contributives. Le Conseil constitutionnel l'a interprété comme fixant un plafond de taxation confiscatoire situé entre 70 % et 75 % des revenus. Au-delà, une mesure fiscale est jugée spoliatoire et censurée — ce qui limite structurellement tout gouvernement, quel que soit son programme politique."
+  },
+  {
+    "id": "3",
+    "question": "Pourquoi une taxe Zucman à 2 % serait-elle jugée inconstitutionnelle selon Bornozer, mais pas à 0,5 % ?",
+    "reponse": "Parce qu'appliquée à des rendements sans risque autour de 2,5 %, une taxe de 2 % reviendrait à prélever la quasi-totalité du rendement, dépassant le seuil de confiscation (~75 %) fixé par la jurisprudence du Conseil constitutionnel sur l'article 13. À 0,5 %, la proportion prélevée resterait raisonnable et pourrait passer ce contrôle."
+  },
+  {
+    "id": "4",
+    "question": "Comment le mécanisme du plafonnement de l'IFI permet-il de ne pas payer d'impôt sur la fortune immobilière ?",
+    "reponse": "Le plafonnement limite la somme IR + IFI à un pourcentage des revenus de l'année. Si un contribuable organise ses revenus pour être nuls une année donnée (en vivant sur son capital via une holding), il n'a pas de revenu, donc l'IFI plafonné tombe à zéro également."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce que la nouvelle taxe sur les holdings (2 % initial) et pourquoi Bornozer dit-il qu'elle a été « vidée de sa substance » ?",
+    "reponse": "À l'origine, elle visait à taxer à 2 % tout le patrimoine financier des holdings, mais jugée trop risquée face au Conseil constitutionnel. Un amendement l'a réduite : taux de 20 % mais assiette limitée aux « biens somptuaires » (chasse, avions, yachts, résidences sans loyer, or, bijoux) — des biens rarement détenus en holding, donc son rendement budgétaire attendu n'est que d'environ 1 million d'euros. Son but est plus dissuasif que budgétaire."
+  },
+  {
+    "id": "6",
+    "question": "Quelle est la différence entre optimisation fiscale et planification fiscale selon Bornozer ?",
+    "reponse": "Il rejette le terme « optimisation fiscale », jugé galvaudé et amalgamé par les gouvernants avec l'évasion/fraude fiscale. Il préfère « planification fiscale » : le droit constitutionnellement reconnu de choisir la voie la moins imposée pour une opération, de façon parfaitement légale et légitime — sans confondre morale (bien/pas bien) et éthique (juste/pas juste applicable au droit voté)."
+  },
+  {
+    "id": "7",
+    "question": "Pourquoi un entrepreneur qui vend son entreprise paie-t-il moins d'impôt (sur la plus-value) qu'un salarié sur son revenu du travail ?",
+    "reponse": "Parce que la société a déjà payé l'impôt sur les sociétés avant la vente, et que le régime des plus-values est volontairement moins taxé que celui du travail afin d'encourager l'entrepreneuriat (prise de risque, création d'entreprise)."
+  },
+  {
+    "id": "8",
+    "question": "Quelle est la différence de fiscalité du travail entre la France, l'Angleterre et les pays d'Europe de l'Est selon Bornozer ?",
+    "reponse": "La France a inventé et défend la progressivité de l'impôt sur le revenu (plusieurs tranches). L'Angleterre n'a que deux tranches (quasi flat tax). Les anciens pays de l'Est (ex. Roumanie) appliquent une flat tax proportionnelle (ex. 10 % pour tous, salariés ou indépendants), jugée normale par leurs habitants."
+  },
+  {
+    "id": "9",
+    "question": "Qu'est-ce que la CSG selon l'exemple donné par Bornozer sur la flat tax ?",
+    "reponse": "C'est déjà un impôt proportionnel (flat tax) qui s'applique à tous, y compris les plus modestes — preuve qu'un système d'imposition proportionnelle existe déjà en France en parallèle du barème progressif de l'IR."
+  },
+  {
+    "id": "10",
+    "question": "Sur combien d'années l'administration fiscale française peut-elle aujourd'hui revenir en arrière pour un contrôle de résidence fiscale, et comment cela évolue-t-il ?",
+    "reponse": "Le délai de prescription est passé à 10 ans. Comme une nouvelle prescription ne s'applique pas rétroactivement, l'administration ne peut examiner que progressivement plus d'années (3 ans actuellement, puis 4, etc.) jusqu'à atteindre 10 ans dans le futur."
+  },
+  {
+    "id": "11",
+    "question": "Quels sont les critères de droit interne français (article 4B du CGI) pour être considéré résident fiscal français ?",
+    "reponse": "Des critères alternatifs (un seul suffit) : avoir son centre des intérêts économiques en France (analysé par la jurisprudence comme la plus grande part des revenus de source française), son foyer, ou son lieu de séjour principal en France, entre autres critères."
+  },
+  {
+    "id": "12",
+    "question": "Quels sont, dans l'ordre, les critères successifs d'une convention fiscale bilatérale pour trancher un conflit de résidence entre deux pays ?",
+    "reponse": "1) Le foyer permanent d'habitation (ex. propriétaire/locataire d'un logement fixe vs hôtel/Airbnb) ; 2) le centre des intérêts vitaux (implantation dans la vie locale, clubs, scolarisation des enfants, conjoint — critère subjectif) ; 3) le lieu de séjour principal (temps passé comparé entre les deux pays, en excluant les séjours dans des pays tiers)."
+  },
+  {
+    "id": "13",
+    "question": "Pourquoi conserver sa résidence principale en France est-il un facteur de risque important pour un expatrié qui veut être non-résident fiscal ?",
+    "reponse": "Parce que cela remplit d'emblée le premier critère de la convention fiscale (foyer permanent d'habitation en France), ce qui peut suffire à faire pencher la détermination de résidence fiscale en faveur de la France, sans même avoir besoin d'examiner les critères suivants (centre des intérêts vitaux, lieu de séjour principal)."
+  },
+  {
+    "id": "14",
+    "question": "Quels moyens de traque utilise l'administration fiscale française contre les « faux non-résidents » ?",
+    "reponse": "Depuis le début des années 2010, elle dispose des moyens de l'antiterrorisme : géolocalisation du téléphone (bornage), traçage des cartes RFID, etc. Contrairement à d'autres pays, la France ne fait pas de contrôles aléatoires : elle ne contrôle que les personnes pour lesquelles elle a de forts soupçons de non-conformité — un contrôle n'est donc jamais un hasard."
+  },
+  {
+    "id": "15",
+    "question": "Pourquoi faut-il répondre avec exactitude au questionnaire envoyé lors d'un contrôle fiscal (avis de vérification de situation fiscale) ?",
+    "reponse": "Parce qu'une garantie légale protège le contribuable contre un second contrôle identique, mais cette garantie ne s'applique que si les informations données dans le questionnaire sont véridiques. Mentir dans le questionnaire prive donc de cette protection contre un renouvellement de la vérification."
+  },
+  {
+    "id": "16",
+    "question": "Qu'est-ce que le dispositif de l'article 150-0 B ter du CGI, aussi appelé « apport-cession » ?",
+    "reponse": "Il permet à un entrepreneur qui apporte ses titres à une holding avant leur vente (au lieu de vendre en direct) de reporter l'imposition de la plus-value, à condition de réinvestir au moins 70 % du prix de vente dans des actifs éligibles réputés professionnels dans un délai de 3 ans après la cession par la holding. Ce texte codifie une jurisprudence sur l'abus de droit visant à distinguer le report légitime (avec réinvestissement) du schéma purement fiscal."
+  },
+  {
+    "id": "17",
+    "question": "Quels types d'investissements sont éligibles au réinvestissement des 70 % dans le cadre du 150-0 B ter ?",
+    "reponse": "Créer ou reprendre le contrôle d'une société exerçant une activité commerciale, industrielle, agricole ou libérale ; ou souscrire au capital d'une telle société. Des exemples concrets cités : bois et forêts (rendement faible ~1 % mais risque en capital très faible), hôtellerie adossée à une chaîne, immobilier de para-hôtellerie en zone touristique premium (ex. Courchevel)."
+  },
+  {
+    "id": "18",
+    "question": "À qui Bornozer recommande-t-il réellement le schéma 150-0 B ter, et pourquoi met-il en garde contre son usage massif par les banques ?",
+    "reponse": "Il est calibré pour le « sérial entrepreneur » qui prévoit de refinancer une nouvelle activité. Les banques en ont fait un produit financier grand public (fonds labellisés 150-0 B ter) proposé à des personnes âgées ou sans projet entrepreneurial, alors que ces fonds investissent dans l'économie réelle risquée et peuvent essuyer de grosses pertes — il déconseille d'y placer une part trop importante de son patrimoine à la retraite."
+  },
+  {
+    "id": "19",
+    "question": "Qu'est-ce que le Pacte Dutreil et quel est son objectif originel ?",
+    "reponse": "Un régime permettant de transmettre une entreprise avec un abattement de 75 % sur les droits de succession, initialement conçu pour éviter que les PME familiales françaises ne soient vendues à l'étranger (perte de savoir-faire, délocalisation). Il impose des durées de conservation des titres (passées de 6 à 8 ans) par les bénéficiaires de la donation."
+  },
+  {
+    "id": "20",
+    "question": "Comment le Pacte Dutreil combiné à une donation en démembrement permet-il de réduire fortement l'impôt lors de la revente ultérieure de l'entreprise ?",
+    "reponse": "Il réévalue le prix de revient fiscal des titres transmis. Ainsi, une flat tax de 38,6 % qui aurait dû s'appliquer sur la plus-value est remplacée par des droits de succession beaucoup plus faibles (environ 4-5 %) — un avantage réservé à celui qui transmet plutôt qu'à celui qui reçoit."
+  },
+  {
+    "id": "21",
+    "question": "Quel est le principal inconvénient (« golden cuffs » / menottes dorées) d'une holding qui capitalise les revenus ?",
+    "reponse": "Ce qui est capitalisé dans la holding doit, à un moment donné, en être sorti pour être consommé — et c'est à ce moment-là qu'on « passe à la caisse » fiscalement (flat taxe sur la distribution). L'avantage réel n'est pas d'éviter l'impôt mais de choisir librement le moment où on le paie."
+  },
+  {
+    "id": "22",
+    "question": "Pourquoi Bornozer déconseille-t-il d'acheter sa résidence principale via sa holding pour se la louer à soi-même ?",
+    "reponse": "D'une part, si le loyer n'est pas au juste prix, cela expose à la taxe sur les holdings à 20 %. D'autre part, la résidence principale détenue en direct bénéficie d'une exonération totale d'impôt sur la plus-value, alors qu'en holding il faudrait payer l'IS puis la flat taxe pour récupérer l'argent (plus de 50 % d'imposition cumulée contre 0 % en direct)."
+  },
+  {
+    "id": "23",
+    "question": "Pourquoi Bornozer recommande-t-il de toujours détenir sa résidence principale en direct, sans la transmettre à ses enfants ?",
+    "reponse": "Parce qu'elle constitue une « sauvegarde » : en cas d'imprévu (maladie, besoin financier soudain), elle peut être vendue sans impôt sur la plus-value pour financer ce besoin — un avantage perdu si elle est logée dans une structure ou déjà transmise."
+  },
+  {
+    "id": "24",
+    "question": "Qu'est-ce que la Société en Commandite Simple (SCS) et pourquoi Bornozer la préfère-t-il à la SCI pour l'immobilier locatif ?",
+    "reponse": "La SCS comporte deux catégories d'associés : les commanditaires (responsabilité limitée aux apports, soumis à l'IS sur leur quote-part) et les commandités (responsabilité indéfinie et solidaire, soumis à l'IR sur leur quote-part). Cela permet d'acheter et détenir un bien à l'IS (déduction des amortissements, faible imposition des loyers) puis de vendre la part revenant aux commandités sous le régime de la plus-value immobilière des particuliers (avantageux après détention longue), combinant le meilleur des deux régimes fiscaux."
+  },
+  {
+    "id": "25",
+    "question": "Pourquoi l'investissement locatif classique à l'IR est-il qualifié « d'horreur » par Bornozer en phase de détention ?",
+    "reponse": "Les revenus fonciers sont très lourdement taxés (jusqu'à 45 % de tranche marginale + 17,2 % de prélèvements sociaux, plus la CEHR), alors que le contribuable est souvent imposé sur un revenu locatif dont il ne dispose pas réellement (car reversé à la banque en remboursement d'emprunt), la part de capital dans les mensualités augmentant avec le temps."
+  },
+  {
+    "id": "26",
+    "question": "Quel montant minimum d'investissement Bornozer évoque-t-il en dessous duquel les schémas de holding/SCS ne sont pas rentables ?",
+    "reponse": "Environ 750 000 à 800 000 € d'investissement, car en dessous de ce seuil, les frais de mise en place (dont les honoraires du conseil) ne sont pas absorbés par le gain fiscal obtenu."
+  },
+  {
+    "id": "27",
+    "question": "Pourquoi Bornozer déconseille-t-il de délocaliser le siège d'une holding hors de France (ex. Luxembourg) en anticipation des élections de 2027 ?",
+    "reponse": "L'administration fiscale et une partie de la jurisprudence considèrent qu'une « pure holding » luxembourgeoise dont les actionnaires et dirigeants résident en France est en réalité une société française. Cela expose à des contrôles violents (visite domiciliaire matinale) et à un redressement obligeant à payer l'impôt en France en plus de celui déjà versé au Luxembourg."
+  },
+  {
+    "id": "28",
+    "question": "Quelle est la vraie recommandation de Bornozer concernant la localisation des actifs (par opposition à la holding elle-même) ?",
+    "reponse": "Garder la holding en France (protégée par l'article 13), mais placer une part importante des actifs (compte bancaire) hors de France, dans un pays hors zone euro et hors Union européenne (ex. Suisse), pour se protéger non pas fiscalement mais contre le risque de crise bancaire/politique (garantie des dépôts limitée à 100 000 €, risque type Chypre)."
+  },
+  {
+    "id": "29",
+    "question": "Qu'est-ce que le précédent de l'emprunt forcé de 1982 évoqué par Bornozer, et pourquoi le juge-t-il plus probable qu'un prélèvement type Chypre ?",
+    "reponse": "En 1982, l'État a contraint les épargnants français à prêter une partie de leur épargne, remboursée avec un faible intérêt — ce n'est pas une spoliation pure puisqu'une créance rémunérée est reconnue. Bornozer juge ce type de mesure (contrairement à un prélèvement direct sur les comptes façon Chypre/Italie) tout à fait envisageable à l'avenir, car politiquement plus acceptable."
+  },
+  {
+    "id": "30",
+    "question": "Quelle est la position finale de Bornozer sur l'imposition du patrimoine par rapport à celle du revenu ?",
+    "reponse": "Il est totalement opposé à l'impôt sur le patrimoine (type IFI) car ce patrimoine a déjà été financé avec des revenus ayant déjà supporté l'impôt sur le revenu, les droits de succession et l'impôt sur les plus-values — le taxer une fois de plus du simple fait de sa détention lui semble injustifié."
+  }
+]

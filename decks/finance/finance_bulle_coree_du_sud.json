@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce que le COSPI et pourquoi son indice était-il particulièrement peu diversifié avant le krach ?",
+    "reponse": "Le COSPI est l'indice boursier représentant les plus grandes sociétés coréennes (équivalent du CAC 40). Il était très peu diversifié car près de 50 % de sa capitalisation reposait sur seulement deux sociétés, Samsung et SK, toutes deux dans le secteur des semi-conducteurs — une concentration sectorielle et capitalistique extrême."
+  },
+  {
+    "id": "2",
+    "question": "Quelles ont été les conséquences concrètes de l'effondrement du COSPI pour les particuliers coréens ?",
+    "reponse": "En un mois, la Corée du Sud a perdu un tiers de la valeur de son marché, soit plus de 2000 milliards de dollars. Un adulte sud-coréen en âge de travailler sur 30 a reçu un appel de marge de sa banque, avec plus de 1,2 million de comptes à effet de levier concernés."
+  },
+  {
+    "id": "3",
+    "question": "Pourquoi les investisseurs coréens (« les fourmis ») achetaient-ils massivement des actions américaines avant le boom du COSPI ?",
+    "reponse": "Parce que le COSPI a connu 15 ans de stagnation (depuis 2008), évoluant dans un mouchoir de poche. Faute de rendement domestique, les investisseurs particuliers coréens se sont tournés vers le marché américain, devenant le deuxième plus gros groupe d'acheteurs d'actions américaines après les Américains eux-mêmes."
+  },
+  {
+    "id": "4",
+    "question": "Qu'est-ce que le « miracle de la rivière Han » et quel rôle a-t-il joué dans la disparité générationnelle en Corée ?",
+    "reponse": "C'est le nom donné au boom immobilier coréen consécutif à la reconstruction après la guerre de Corée (années 1950). Il a permis à la génération qui a acheté à cette époque d'accumuler un patrimoine immobilier considérable, créant une disparité énorme avec les jeunes générations actuelles qui n'ont pas pu profiter de cette explosion des prix et peinent à accéder à la propriété."
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi la thématique de l'intelligence artificielle a-t-elle particulièrement dopé le COSPI ?",
+    "reponse": "La Corée du Sud est ultra-concentrée sur le hardware des semi-conducteurs (le « moteur » de l'IA), avec Samsung représentant environ 1/5 de la production mondiale de semi-conducteurs (2e derrière Taïwan/TSMC). L'État a lancé un plan d'investissement massif de 880 milliards de dollars dans ce secteur, bénéficiant directement à SK et Samsung Electronics, les deux poids lourds de l'indice."
+  },
+  {
+    "id": "6",
+    "question": "Quelle a été l'ampleur de la hausse du COSPI avant son effondrement ?",
+    "reponse": "Après 15 ans autour de 1500-2000 points, l'indice est passé à 3000 en juin 2025, 4000 en octobre 2025, 5000 début 2026, jusqu'à un plus haut historique (ATH) de 9385 points en mai 2026 — soit +56 % de performance depuis le début de l'année au 31 juillet 2026, contre +4 % pour le CAC 40 et +9 % pour le S&P 500 sur la même période."
+  },
+  {
+    "id": "7",
+    "question": "Quelles sont les étapes classiques d'une bulle spéculative identifiées dans la vidéo, appliquées au COSPI ?",
+    "reponse": "Un départ lent, une première vente qui attire l'attention des médias, l'arrivée d'investisseurs retail enthousiastes (FOMO), une envie de gain de plus en plus dangereuse créant de la volatilité, des premières prises de bénéfices vues comme une simple « respiration » du marché, puis l'abandon final accéléré par les effets de levier."
+  },
+  {
+    "id": "8",
+    "question": "Qu'est-ce qu'un ETF à effet de levier sur action individuelle, et pourquoi la Corée l'a-t-elle autorisé de façon risquée ?",
+    "reponse": "Contrairement à un ETF classique qui diversifie sur un indice ou un secteur, un ETF à action individuelle réplique une seule société avec un levier intégré (ex. x3 sur Samsung) : on emprunte pour investir trois fois plus que ce qu'on aurait mis en achetant le titre en direct. Cela amplifie autant les gains que les pertes, sur un actif unique et donc non diversifié — la Corée a autorisé ce type de produit sur des actions individuelles, un risque jugé après coup excessif par les responsables politiques qui l'ont autorisé."
+  },
+  {
+    "id": "9",
+    "question": "Qu'est-ce que le « beta slippage » (ou beta slipage) d'un ETF à effet de levier, et pourquoi pénalise-t-il structurellement l'investisseur ?",
+    "reponse": "C'est l'écart de performance qui apparaît sur un ETF à effet de levier journalier même quand l'indice sous-jacent revient à son niveau de départ. Exemple : sans levier, une baisse de 10 % (100 → 90) nécessite une hausse de 11,1 % pour revenir à 100. Avec un levier x3, une baisse de 10 % de l'indice devient -30 % sur l'ETF (100 → 70), et il faudra une hausse bien plus forte pour repasser à 100 — au final, pour les mêmes variations de l'indice (-10 % puis +11 %), l'ETF x3 termine à 93 au lieu de 100, soit une perte structurelle de 6,7 % malgré un aller-retour neutre sur l'indice."
+  },
+  {
+    "id": "10",
+    "question": "Quel est le mécanisme exact d'un appel de marge (margin call), illustré avec un seuil (LTV) à 66 % ?",
+    "reponse": "Si l'investisseur emprunte 50 % de sa position initiale (portefeuille à 100, dont 50 emprunté) et que le seuil d'appel (LTV) est fixé à 66 %, tant que la valeur du portefeuille reste au-dessus de 66, aucun appel n'est déclenché (ex. à -20 %, encore de la marge). Mais si le portefeuille descend sous 66 (ex. à 60), un appel de marge est déclenché : il faut soit reverser des fonds pour remonter au-dessus du seuil, soit la position est liquidée automatiquement — avec les ETF à effet de levier, aucune possibilité de « remettre au pot », la liquidation est automatique."
+  },
+  {
+    "id": "11",
+    "question": "Pourquoi les positions à effet de levier liquidées automatiquement aggravent-elles la baisse du marché en cascade ?",
+    "reponse": "Les investisseurs à levier sont généralement liquidés au plus bas (au pire moment), et ces ventes forcées entraînent elles-mêmes une baisse supplémentaire de l'indice, qui déclenche à son tour les appels de marge d'autres investisseurs légèrement moins exposés — créant un effet cascade qui peut transformer une baisse de marché modeste (ex. -8 %) en désastre financier pour les investisseurs à levier."
+  },
+  {
+    "id": "12",
+    "question": "Qu'est-ce qui a déclenché le retournement du marché, lié à la concurrence chinoise sur les semi-conducteurs ?",
+    "reponse": "L'arrivée de puces DUV fabriquées par la Chine, faisant concurrence directe à SK (deuxième capitalisation du COSPI), a entraîné des résultats décevants pour SK et donc une baisse de son cours de bourse, amorçant l'emballement baissier de l'indice."
+  },
+  {
+    "id": "13",
+    "question": "Qu'est-ce qu'une suspension de séance boursière et quel est son objectif ?",
+    "reponse": "C'est une mesure prise par l'autorité de régulation d'un marché lorsque les baisses sont massives et quasi instantanées : elle arrête temporairement les échanges, fige les prix, pour permettre au marché de « se calmer » avant reprise. Cela limite la volatilité mais n'empêche pas les appels de marge déjà déclenchés."
+  },
+  {
+    "id": "14",
+    "question": "Quel exemple de fonds professionnel illustre que l'effet de levier excessif touche aussi les investisseurs institutionnels ?",
+    "reponse": "Le hedge fund « Situational Awareness », spécialisé dans les infrastructures IA, avait un levier trop important : il a perdu 67 % de son portefeuille et a dû être racheté par le hedge fund Citadelle. Il avait pourtant affiché une performance exceptionnelle de +439 % à son pic avant d'être contraint de vendre à un prix non optimal à cause de son endettement à effet de levier."
+  },
+  {
+    "id": "15",
+    "question": "Quel est le lien établi dans la vidéo entre l'inégalité immobilière et la spéculation boursière chez les jeunes coréens ?",
+    "reponse": "Les taux d'accession à la propriété sont très élevés chez les personnes âgées mais ridiculement bas (environ 10 %) chez les moins de 30 ans. Se sentant exclus du marché immobilier devenu trop cher, de nombreux jeunes ont vu dans la flambée du COSPI (portée par la thématique IA) une « dernière chance » de bâtir un patrimoine, cédant à un phénomène de FOMO (fear of missing out) qui les a poussés à prendre des risques excessifs via le levier."
+  },
+  {
+    "id": "16",
+    "question": "Qu'est-ce que le Fear & Greed Index et quel niveau atteignait-il sur le COSPI en mai 2026 ?",
+    "reponse": "C'est un indicateur mesurant le sentiment de marché entre la peur (fear) et l'avidité (greed), sur une échelle où au-delà de 80 on parle d'« extreme greed ». En mai 2026, il atteignait 71 sur le COSPI, signe d'un marché dominé par l'avidité et l'envie de gagner rapidement, un facteur classique de mauvaises décisions d'investissement."
+  },
+  {
+    "id": "17",
+    "question": "Après le krach, pourquoi est-il dit qu'investir en Corée du Sud est devenu plus risqué qu'investir en Bitcoin ?",
+    "reponse": "Après être monté jusqu'à 9385 points (ATH), le COSPI est retombé autour de 6296 points (décote d'environ 30 %). La volatilité du marché coréen a atteint 63 %, soit le double de celle du marché japonais voisin — un niveau de volatilité supérieur à celui du Bitcoin sur la même période, ce qui rend, selon la vidéo, le COSPI statistiquement plus risqué que la cryptomonnaie."
+  },
+  {
+    "id": "18",
+    "question": "Selon la pyramide patrimoniale évoquée, où doit-on placer un investissement à effet de levier sur un secteur ou pays de forte conviction, et quelle limite est recommandée ?",
+    "reponse": "La pyramide patrimoniale classique va du matelas de sécurité à l'immobilier, puis ETF/actions diversifiés, crypto, et enfin actifs alternatifs en dernier lieu. Une conviction sectorielle ou géographique forte (ex. IA, Corée) est recommandée à hauteur de 20 % maximum du portefeuille actions pour garder une exposition globalement diversifiée. Dès qu'on y ajoute de l'effet de levier, l'investissement relève davantage du pari spéculatif que du placement patrimonial de long terme, et devrait plutôt être classé dans les actifs alternatifs à faible allocation."
+  },
+  {
+    "id": "19",
+    "question": "Quelle est la principale conséquence sociale de long terme évoquée à la fin de la vidéo concernant cette crise ?",
+    "reponse": "Le krach a dégoûté toute une génération de jeunes Coréens des marchés financiers, qui risquent désormais de se priver durablement d'un avenir meilleur en évitant l'investissement de long terme après avoir privilégié un gain facile et rapide de court terme."
+  },
+  {
+    "id": "20",
+    "question": "Quel précédent historique comparable est mentionné, avec quelle différence clé par rapport à la Corée ?",
+    "reponse": "Le krach boursier chinois de 2015, également causé par un excès d'effet de levier chez les investisseurs particuliers. La différence clé est que la Chine dispose d'une mainmise étatique bien plus forte sur son marché et est intervenue en achetant massivement des actions pour limiter la chute — une capacité d'intervention que la Corée du Sud n'a pas sur le COSPI."
+  }
+]
