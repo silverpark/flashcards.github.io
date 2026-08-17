@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Tinto\nCafé negro pequeño (no tiene nada que ver con el vino). Muy típico pedirlo así en Colombia.\n\"¿Me regala un tinto?\"","reponse":"Un café noir, s'il vous plaît."},
+  {"id":"2","question":"Berraco(a)\nSegún el contexto: valiente, muy bueno en algo, o difícil.\n\"Es berraco para la informática\"","reponse":"Il est très doué pour l'informatique."},
+  {"id":"3","question":"Guayabo\nLa resaca después de una fiesta.\n\"Tengo un guayabo tremendo\"","reponse":"J'ai une méga gueule de bois."},
+  {"id":"4","question":"Camello\nEl trabajo, el empleo.\n\"Voy para el camello\"","reponse":"Je pars au boulot."},
+  {"id":"5","question":"Rumba\nLa fiesta, salir a bailar.\n\"Vamos de rumba\"","reponse":"On sort faire la fête."},
+  {"id":"6","question":"De una\nExpresión para aceptar algo sin dudar, de inmediato.\n\"¿Vamos a comer? — De una.\"","reponse":"On va manger ? — Carrément, allons-y."},
+  {"id":"7","question":"Man\nExpresión para referirse a una persona, un tipo o un amigo.\n\"Ese man es mi amigo\"","reponse":"Ce type est mon ami."},
+  {"id":"8","question":"Paila\nExpresión para cuando algo salió mal o no funcionó.\n\"¿Se fue el bus? — Paila.\"","reponse":"Le bus est parti ? — Tant pis."},
+  {"id":"9","question":"Amañado(a)\nSentirse a gusto, cómodo en un lugar.\n\"Estoy muy amañado aquí\"","reponse":"Je me sens très bien ici."},
+  {"id":"10","question":"Regalar\nSe usa en vez de \"dar\" al pedir algo, más amable que \"dame\".\n\"¿Me regala un tinto?\"","reponse":"Vous pouvez me donner un café ?"}
+]

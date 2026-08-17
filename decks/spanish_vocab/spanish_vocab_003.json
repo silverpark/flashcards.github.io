@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"¿Qué más?\nSaludo básico informal, para preguntar cómo está alguien.\n\"¿Qué más, todo bien?\"","reponse":"Comment ça va ? Tout va bien ?"},
+  {"id":"2","question":"Parce\nPara llamar a un amigo en cualquier frase.\n\"Gracias, parce\"","reponse":"Merci, mon pote."},
+  {"id":"3","question":"Listo\nConfirmación universal, para decir que todo está bien o de acuerdo.\n\"¿Nos vemos a las 7? — Listo.\"","reponse":"On se voit à 7h, ok !"},
+  {"id":"4","question":"Chévere\nTu reacción a algo que te gusta.\n\"¡Qué chévere!\"","reponse":"Trop bien !"},
+  {"id":"5","question":"Bacano\nIgual que chévere, muy usado también.\n\"Bacano el plan\"","reponse":"Sympa, le plan."},
+  {"id":"6","question":"Vaina\nComodín para referirse a un objeto cuando no recuerdas su nombre.\n\"Pásame esa vaina\"","reponse":"Passe-moi ce truc."},
+  {"id":"7","question":"Dale\nExpresión para aceptar un plan o animar a alguien a hacer algo.\n\"¿Vamos? — Dale.\"","reponse":"On y va ? — Vas-y."},
+  {"id":"8","question":"Un momentico\nPedir un momento, con el diminutivo típico colombiano.\n\"Espérame un momentico\"","reponse":"Attends-moi un instant."},
+  {"id":"9","question":"Con mucho gusto\nRespuesta cortés a un \"gracias\", muy colombiana (en vez de \"de nada\").\n\"Gracias — Con mucho gusto.\"","reponse":"Merci — Je t'en prie."},
+  {"id":"10","question":"¿Sí o qué?\nMuletilla para confirmar algo o buscar el acuerdo del interlocutor.\n\"Está bueno el café, ¿sí o qué?\"","reponse":"C'est bon le café, n'est-ce pas ?"}
+]

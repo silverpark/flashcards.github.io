@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Hola / Buenos días\nSaludo básico, punto de partida obligatorio.","reponse":"Bonjour."},
+  {"id":"2","question":"Por favor\nSe usa mucho más que en francés, casi en cada petición.","reponse":"S'il vous plaît."},
+  {"id":"3","question":"Gracias / Con mucho gusto\nEl agradecimiento y su respuesta típica colombiana (en vez de \"de nada\").","reponse":"Merci / Avec plaisir."},
+  {"id":"4","question":"Sí / No\nLo obvio, pero fundamental para todo lo demás.","reponse":"Oui / Non."},
+  {"id":"5","question":"¿Cómo se dice…?\nPregunta clave para seguir aprendiendo sobre la marcha.","reponse":"Comment dit-on… ?"},
+  {"id":"6","question":"No entiendo\nImprescindible para pedir que te repitan o expliquen.","reponse":"Je ne comprends pas."},
+  {"id":"7","question":"¿Cuánto cuesta?\nPara cualquier compra, café, taxi.","reponse":"Combien ça coûte ?"},
+  {"id":"8","question":"¿Dónde está…?\nPara orientarte, pedir direcciones.","reponse":"Où se trouve… ?"},
+  {"id":"9","question":"Disculpe / Perdón\nPara llamar la atención de alguien o pedir disculpas.","reponse":"Excusez-moi / Pardon."},
+  {"id":"10","question":"Listo\nLa palabra colombiana comodín: significa \"ok\", \"d'accord\", \"entendido\", todo a la vez.","reponse":"D'accord."}
+]
