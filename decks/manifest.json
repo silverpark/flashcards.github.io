@@ -60,5 +60,7 @@
   {"label": "Types / Syntax (N1 v1)", "file": "dotnet/dotnet_types-syntax-n1-01-v1.json", "tags": [".NET"], "profiles": ["study", "n1"]},
   {"label": "Vocab ES 001", "file": "spanish_vocab/spanish_vocab_001.json", "tags": ["spanish"], "profiles": ["study", "n1"]},
   {"label": "Vocab ES 002", "file": "spanish_vocab/spanish_vocab_002.json", "tags": ["spanish"], "profiles": ["study", "n1"]},
-  {"label": "Vocab ES 003", "file": "spanish_vocab/spanish_vocab_003.json", "tags": ["spanish"], "profiles": ["study", "n1"]}
+  {"label": "Vocab ES 003", "file": "spanish_vocab/spanish_vocab_003.json", "tags": ["spanish"], "profiles": ["study", "n1"]},
+  {"label": "Vocab ES 004", "file": "spanish_vocab/spanish_vocab_004.json", "tags": ["spanish"], "profiles": ["study", "n1"]},
+  {"label": "Vocab ES 005", "file": "spanish_vocab/spanish_vocab_005.json", "tags": ["spanish"], "profiles": ["study", "n1"]}
 ]

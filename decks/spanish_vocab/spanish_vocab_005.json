@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Lucas\nArgot para \"pesos\" (dinero).\n\"Me costó cien lucas\"","reponse":"Ça m'a coûté cent mille pesos."},
+  {"id":"2","question":"Cucho(a)\nForma cariñosa/informal de decir \"papá/mamá\" o persona mayor.\n\"Mi cucha me llamó\"","reponse":"Ma mère m'a appelé."},
+  {"id":"3","question":"Gomelo(a)\nPersona pija, de clase alta, algo esnob.\n\"Es muy gomelo ese man\"","reponse":"Il est vraiment friqué/BCBG, ce type."},
+  {"id":"4","question":"Guaro\nEl aguardiente, licor típico colombiano.\n\"Vamos por unos guaros\"","reponse":"On va boire de l'aguardiente."},
+  {"id":"5","question":"Tombo(a)\nForma informal (algo irrespetuosa) de decir \"policía\".\n\"Ahí viene un tombo\"","reponse":"Voilà un flic."},
+  {"id":"6","question":"Sapo(a)\nPersona chismosa, que delata o cuenta secretos.\n\"No sea sapo\"","reponse":"Ne cafte pas."},
+  {"id":"7","question":"Filo\nTener hambre.\n\"Tengo filo\"","reponse":"J'ai la dalle / j'ai faim."},
+  {"id":"8","question":"Ñapa\nAlgo extra que te regalan sin cobrar.\n\"¿Me da la ñapa?\"","reponse":"Vous me faites un petit extra ?"},
+  {"id":"9","question":"Recocha\nDiversión, broma entre amigos, ambiente relajado.\n\"Eso fue pura recocha\"","reponse":"C'était juste pour rigoler."},
+  {"id":"10","question":"Berraquera\nAdmiración por algo impresionante o bien hecho.\n\"¡Qué berraquera!\"","reponse":"C'est du grand art / impressionnant !"}
+]

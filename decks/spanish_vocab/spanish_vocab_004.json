@@ -1,0 +1,12 @@
+[
+  {"id":"1","question":"Chimba\nMuy colombiano, significa \"genial\" o \"increíble\" (¡cuidado, en otros contextos es vulgar!).\n\"¡Qué chimba!\"","reponse":"C'est trop cool !"},
+  {"id":"2","question":"Man / Mono(a)\n\"Man\" se refiere a una persona o tipo cualquiera; \"mono/a\" es una persona de pelo claro o rubio.\n\"Esa mona es mi amiga\"","reponse":"Cette fille blonde est mon amie."},
+  {"id":"3","question":"Juepucha / Ave María\nExpresiones de sorpresa o asombro, muy usadas ante algo inesperado.\n\"¡Ave María, qué frío!\"","reponse":"Mon Dieu, qu'il fait froid !"},
+  {"id":"4","question":"Tener huevo / Dar papaya\n\"Dar papaya\" significa exponerse innecesariamente a un riesgo (típicamente colombiano).\n\"No dé papaya\"","reponse":"Ne prends pas de risque inutile."},
+  {"id":"5","question":"Arrecho(a)\nSegún la región: enojado, o impresionante/excitante (usar con cuidado).\n\"Está arrecho conmigo\"","reponse":"Il est en colère contre moi."},
+  {"id":"6","question":"Mecato\nLas botanas o aperitivos que se comen entre comidas.\n\"Voy a comprar mecato\"","reponse":"Je vais acheter des chips/snacks."},
+  {"id":"7","question":"Sardino(a)\nUna persona joven.\n\"Esos manes son muy sardinos\"","reponse":"Ces types sont vraiment jeunes."},
+  {"id":"8","question":"Polas\nCervezas, de forma coloquial.\n\"Vamos por unas polas\"","reponse":"On va boire des bières."},
+  {"id":"9","question":"Jartera\nEl aburrimiento, la pereza.\n\"¡Qué jartera!\"","reponse":"Quelle flemme !"},
+  {"id":"10","question":"A la orden\nRespuesta cortés muy colombiana, para decir que estás a disposición de alguien, usada después de un \"gracias\" o en una tienda.\n\"Gracias — A la orden\"","reponse":"Merci — Je vous en prie / à votre service."}
+]
