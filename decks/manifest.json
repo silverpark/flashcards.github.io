@@ -1,6 +1,8 @@
 [
   {"label": "Finance", "file": "finance.json", "tags": ["finance", "economy"], "profiles": ["study", "n1"]},
   {"label": "Fiscalité & Holdings (Bornozer)", "file": "finance/finance_fiscalite_holding_bornozer.json", "tags": ["finance", "fiscalite"], "profiles": ["n2"]},
+  {"label": "Fiscalité : concepts clés (audition Bornier)", "file": "finance/finance_fiscalite_concepts_cles.json", "tags": ["finance", "fiscalite"], "profiles": ["n2"]},
+  {"label": "Holding : guide complet (Finary)", "file": "finance/finance_holding_guide_complet.json", "tags": ["finance", "fiscalite", "holding"], "profiles": ["n2"]},
   {"label": "Bulle boursière Corée du Sud", "file": "finance/finance_bulle_coree_du_sud.json", "tags": ["finance", "marches", "coree"], "profiles": ["n1"]},
   {"label": "English", "file": "english_luc_18_001.json", "tags": ["english", "archaic"], "profiles": ["study", "n1"]},
   {"label": "Vocab EN 001", "file": "english_vocab/english_vocab_001.json", "tags": ["english"], "profiles": ["study", "n1"]},

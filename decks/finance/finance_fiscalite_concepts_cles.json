@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce que l'article 13 de la Déclaration des droits de l'homme et du citoyen (DDHC), et pourquoi est-ce LE concept central à comprendre en fiscalité française ?",
+    "reponse": "C'est la norme constitutionnelle qui pose le consentement à l'impôt et le principe des capacités contributives. Le Conseil constitutionnel l'interprète comme interdisant au législateur de taxer des « revenus latents » (non perçus, non distribués), sauf schéma abusif. C'est le fondement juridique de presque toutes les stratégies de planification fiscale des hauts patrimoines : tant qu'un revenu n'est pas distribué, il ne peut pas être taxé."
+  },
+  {
+    "id": "2",
+    "question": "Qu'est-ce qu'un « revenu latent » et pourquoi cette notion est-elle la clé de voûte de l'optimisation fiscale des hauts patrimoines ?",
+    "reponse": "Un revenu latent est un revenu économiquement généré (plus-value, dividende potentiel, loyer) mais qui reste encapsulé dans une structure (holding, assurance-vie) sans être distribué au contribuable personne physique. Comme l'article 13 de la DDHC empêche de taxer ce qui n'est pas perçu, il suffit de ne jamais faire sortir l'argent de la structure pour ne payer ni impôt sur le revenu ni impôt sur la fortune — c'est le mécanisme derrière les « 13 000 millionnaires » qui ne paient pas d'IR."
+  },
+  {
+    "id": "3",
+    "question": "Comment le mécanisme du « compte courant d'associé » permet-il de vivre de son patrimoine sans déclencher d'impôt ?",
+    "reponse": "Le compte courant représente de l'argent déjà taxé (ex. produit de la vente d'un bien, apporté à la société). Le contribuable peut ensuite se faire rembourser ce compte courant par sa société : un remboursement n'est pas un revenu, donc il n'est pas imposable — contrairement à une distribution de dividendes. Le contribuable vit ainsi sur son capital plutôt que sur un revenu taxable."
+  },
+  {
+    "id": "4",
+    "question": "Quel est le mécanisme du plafonnement de l'IFI, et pourquoi permet-il à un contribuable très riche de ne rien payer ?",
+    "reponse": "Le plafonnement limite le total IR + IFI à un pourcentage des revenus de l'année. Si un contribuable organise ses revenus pour qu'ils soient nuls (en vivant sur un compte courant plutôt que sur des revenus distribués), le plafonnement ramène l'IFI dû à zéro également, même si son patrimoine est considérable."
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi la tentative de l'administration d'intégrer les contrats d'assurance-vie et la trésorerie des holdings dans le calcul du plafonnement de l'ISF a-t-elle été jugée inconstitutionnelle ?",
+    "reponse": "Parce que cela revenait à taxer indirectement des revenus latents (non distribués) logés dans ces structures, ce que l'article 13 de la DDHC interdit. C'est une jurisprudence réaffirmée à plusieurs reprises, qui protège structurellement les structures capitalisantes contre ce type de contournement législatif."
+  },
+  {
+    "id": "6",
+    "question": "En quoi le système fiscal français diffère-t-il fondamentalement de celui des Pays-Bas et de la Suisse sur la taxation du capital ?",
+    "reponse": "Les Pays-Bas taxent les revenus « latents » du capital (une taxation forfaitaire présumée, qui a remplacé leur impôt sur la fortune) et la Suisse taxe des « revenus notionnels » que ceux-ci soient distribués ou non. Dans les deux cas, le fisc « regarde à travers » la structure. En France, la norme constitutionnelle interdit cette transparence fiscale : c'est ce qui fait dire à Bornier que « la France est un paradis fiscal » pour qui sait structurer son patrimoine."
+  },
+  {
+    "id": "7",
+    "question": "Qu'est-ce que le régime du forfait suisse, et pourquoi illustre-t-il un paradoxe fiscal suisse ?",
+    "reponse": "C'est un régime avantageux réservé aux seuls étrangers qui s'installent en Suisse (imposition forfaitaire déconnectée du revenu réel). Le paradoxe : les résidents suisses eux-mêmes, non éligibles à ce régime, subissent une fiscalité élevée dans les villes attractives (Genève, Lausanne) — d'où une fuite des riches suisses vers d'autres pays (dont la France), pendant que la Suisse importe des riches étrangers via le forfait."
+  },
+  {
+    "id": "8",
+    "question": "Qu'est-ce que l'exit tax et quelle est sa nature juridique exacte (pas une simple pénalité de départ) ?",
+    "reponse": "C'est une mesure anti-abus qui vient encadrer une liberté communautaire (la libre circulation des personnes) : elle vise à empêcher les expatriations purement temporaires destinées à échapper à l'impôt sur les plus-values latentes, sans pour autant entraver le droit fondamental de circuler. Sa légitimité juridique dépend donc d'un équilibre entre dissuasion de l'abus et respect de cette liberté — pas d'une volonté punitive généralisée."
+  },
+  {
+    "id": "9",
+    "question": "Pourquoi le délai de rattrapage de l'exit tax est-il fixé à 5 ans, et pourquoi un retour à 15 ans serait-il probablement jugé illégal ?",
+    "reponse": "5 ans est considéré comme conforme à l'esprit anti-abus (dissuader les départs de pure complaisance) sans être disproportionné. Un délai de 15 ans irait au-delà de cet objectif et serait, selon la jurisprudence récente du Conseil d'État (obtenue par de Dieu), jugé contraire à la liberté de circulation des personnes garantie par le droit communautaire — un dispositif anti-abus doit rester proportionné à son but, pas devenir punitif."
+  },
+  {
+    "id": "10",
+    "question": "Quel principe juridique général ressort de l'affaire de la rétroactivité de l'exit tax portée devant le Conseil d'État ?",
+    "reponse": "Dès qu'un dispositif fiscal est susceptible de porter atteinte à une liberté communautaire (ici la libre circulation), les grands principes du droit communautaire s'appliquent pour encadrer ce dispositif — y compris sur des questions comme la rétroactivité de la loi. Cela signifie que le droit européen peut limiter la marge de manœuvre du législateur fiscal national, au-delà même du seul contrôle de constitutionnalité interne."
+  },
+  {
+    "id": "11",
+    "question": "Sur la taxe holding (PLF 2026), quels sont les deux angles d'attaque juridique identifiés par Bornier contre le taux de 20 % ?",
+    "reponse": "1) Le caractère potentiellement confiscatoire au regard de l'article 13 de la DDHC quand le taux de 20 % s'applique à des actifs à faible rendement (ex. un immeuble non loué prélevé à 20 % de sa valeur, sans lien avec un revenu réel). 2) Une discrimination de traitement entre l'or/argent physique (taxé à 20 %) et l'or « papier » (placement financier indexé sur le même sous-jacent, mais exclu du champ de la taxe)."
+  },
+  {
+    "id": "12",
+    "question": "Quel était l'objectif politique initial de la taxe holding, et pourquoi cet objectif éclaire-t-il tout débat sur la fiscalité du capital « dormant » ?",
+    "reponse": "Créer un « frottement fiscal » pour inciter à distribuer/réinvestir les dividendes qui restent captifs dans les holdings (jugés « improductifs ») plutôt que de les laisser dormir sur des placements peu rentables. C'est un exemple type de la tension entre liberté de gestion patrimoniale (diversification incluant une poche défensive peu rémunératrice) et volonté du législateur de faire circuler le capital dans l'économie réelle."
+  },
+  {
+    "id": "13",
+    "question": "Quelle est la différence structurelle entre le Pacte Dutreil et le dispositif d'apport-cession (150-0 B ter), du point de vue de leur logique économique ?",
+    "reponse": "Le Pacte Dutreil vise la transmission d'entreprise (éviter la vente/délocalisation de PME familiales lors d'une succession/donation). L'apport-cession est un outil de report d'imposition de la plus-value lors de la vente d'une entreprise en cours de vie, destiné avant tout au « sérial entrepreneur » qui va réinvestir le produit de cession dans une nouvelle activité — ce n'est pas un outil de transmission mais de réinvestissement professionnel."
+  },
+  {
+    "id": "14",
+    "question": "Pourquoi la structuration de l'immobilier locatif à l'impôt sur les sociétés (IS) est-elle recherchée malgré la perte de l'exonération de plus-value après 30 ans en direct ?",
+    "reponse": "Parce que l'exonération après 30 ans en détention directe suppose de « souffrir » fiscalement pendant toute la durée de détention (imposition lourde des revenus fonciers). L'IS permet un allègement immédiat pendant la phase de détention (amortissements, faible taux) et un refinancement générant du cash — un arbitrage assumé entre confort fiscal immédiat et fiscalité plus lourde différée à la sortie (distribution, liquidation)."
+  },
+  {
+    "id": "15",
+    "question": "Quelle est la logique de la taxe Zucman telle que discutée dans cette audition, et pourquoi la question du plafonnement est-elle centrale ?",
+    "reponse": "C'est une contribution différentielle sur le patrimoine excédant 100 millions d'euros, assise sur l'écart entre 2 % du patrimoine et l'imposition déjà acquittée (IR + IFI + taxe foncière). Le Conseil constitutionnel a déjà validé l'absence de mécanisme de plafonnement pour un taux très faible (précédent jugé conforme) : c'est ce qui fait dire à Bornier qu'un taux de 0,5 % passerait le contrôle constitutionnel, alors qu'un taux de 2 % appliqué à des rendements sans risque d'environ 2,5 % serait quasi confiscatoire et donc probablement censuré."
+  },
+  {
+    "id": "16",
+    "question": "Que retenir de l'épisode du « plafonnement du plafonnement » de l'ISF en 1995, et pourquoi les praticiens y font-ils sans cesse référence pour prévenir contre certaines réformes ?",
+    "reponse": "En 1995, Alain Juppé a instauré un plafonnement du plafonnement de l'ISF, ce qui a provoqué un départ massif de contribuables fortunés de France — dont beaucoup ne sont jamais revenus. C'est l'exemple historique invoqué pour illustrer un effet de bord majeur en fiscalité : une réforme qui semble techniquement anodine peut déclencher une réaction comportementale (expatriation) disproportionnée et durable, largement indépendante du raisonnement économique initial du législateur."
+  },
+  {
+    "id": "17",
+    "question": "Que montre l'exemple de la suppression de la « remittance basis » britannique sur la manière d'estimer l'impact comportemental d'une réforme fiscale ?",
+    "reponse": "Le gouvernement britannique tablait sur la perte d'une centaine de contribuables parmi 10 000 concernés ; en réalité, environ 6 000 sont partis. C'est un cas d'école sur la sous-estimation systématique de l'élasticité comportementale des hauts patrimoines mobiles face à un changement de règle fiscale, et sur le fait que ces contribuables partis profitent souvent à d'autres juridictions (ici la France, via des schémas capitalisants déjà constitués au Luxembourg)."
+  },
+  {
+    "id": "18",
+    "question": "Quelle distinction Bornier établit-il entre « optimiser la gestion » de ses clients et « optimiser la fiscalité » de ses clients — et pourquoi cette nuance est-elle importante pour comprendre le rôle d'un fiscaliste ?",
+    "reponse": "Le fiscaliste n'intervient pas sur les choix de gestion patrimoniale (allocation d'actifs, niveau de risque) qui relèvent du conseil en gestion de patrimoine, mais uniquement sur la structuration juridique et fiscale qui permet de minimiser légalement l'impôt applicable aux choix déjà faits par le client. Cette distinction explique pourquoi un fiscaliste peut défendre une structure (ex. poche défensive peu rentable) sans que ce soit son rôle d'en juger la pertinence économique."
+  }
+]

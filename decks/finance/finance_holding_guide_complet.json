@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce qu'une holding, structurellement parlant, et quelle est la condition fiscale indispensable pour bénéficier des régimes avantageux évoqués (mère-fille, intégration fiscale) ?",
+    "reponse": "Une holding est simplement une société (SAS, SARL, SA...) qui détient des participations dans d'autres sociétés — rien de plus qu'une société « qui tient » d'autres sociétés (to hold). Condition impérative : elle doit être soumise à l'impôt sur les sociétés (IS) pour accéder aux régimes mère-fille, d'intégration fiscale, etc."
+  },
+  {
+    "id": "2",
+    "question": "Quel est l'avantage chiffré de remonter les bénéfices d'une société d'exploitation vers une holding plutôt que de se les verser directement en dividendes personnels ?",
+    "reponse": "En direct, 100 000 € de bénéfice net imposé à la flat tax de 30 % ne laissent que 70 000 € nets. Via une holding éligible au régime mère-fille, seuls 5 % du dividende remonté (5 000 €) sont imposables à l'IS (25 %), soit 1 250 € d'impôt : 98 750 € arrivent nets dans la holding, contre 70 000 € en direct — soit 28 750 € de capacité d'investissement supplémentaire, pour un taux d'imposition effectif de seulement 1,25 %."
+  },
+  {
+    "id": "3",
+    "question": "Quelles sont les conditions du régime mère-fille, et pourquoi ce régime est-il la pierre angulaire de l'avantage fiscal de la holding ?",
+    "reponse": "La société mère (holding) doit détenir au moins 5 % du capital de sa filiale et s'engager à conserver cette participation au moins 2 ans. Sous ces conditions, 95 % des dividendes remontés de la fille vers la mère sont exonérés d'impôt (seuls 5 % restent imposables à l'IS) — c'est ce mécanisme qui permet à la holding de capitaliser des revenus quasi nets d'impôt en vue de réinvestissement."
+  },
+  {
+    "id": "4",
+    "question": "Qu'est-ce que la « taxe Puma » (taxe des rentiers), et comment l'éviter simplement ?",
+    "reponse": "C'est une cotisation supplémentaire qui peut alourdir significativement la fiscalité du versement de dividendes chez le bénéficiaire personne physique. Elle peut être évitée en se versant un petit salaire minimum (environ 9 420 €/an) — d'où la stratégie de « verser le strict minimum en salaire » pour rester sous ce seuil tout en capitalisant le reste dans la holding."
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi la stratégie optimale n'est-elle PAS de faire remonter un maximum de cash en personnel via la holding, mais au contraire de verser le strict minimum ?",
+    "reponse": "Parce que la holding n'est pas un outil de défiscalisation personnelle mais un outil de développement du patrimoine : chaque euro qui reste capitalisé dans la holding plutôt que d'être distribué en dividende personnel évite la flat tax de 30 % (il n'a subi que 1,25 % d'IS). La capacité d'investissement de la holding est donc 28,75 % supérieure à celle du particulier — d'où l'intérêt de « penser holding » sur le long terme plutôt que de maximiser le cash disponible immédiatement en poche."
+  },
+  {
+    "id": "6",
+    "question": "Qu'est-ce que l'intégration fiscale, quelle en est la condition de détention, et quel est son mécanisme concret ?",
+    "reponse": "La holding doit détenir au moins 95 % du capital de ses filiales. Le régime permet de consolider fiscalement les résultats de toutes les sociétés du groupe : les bénéfices des filiales profitables sont compensés par les déficits des filiales en perte, réduisant l'impôt global du groupe. Exemple : filiale A +100 000 €, filiale B -40 000 € → sans intégration, A paie 25 000 € d'IS (B ne paie rien mais garde un déficit reportable) ; avec intégration, le groupe est imposé sur 60 000 € net, soit 15 000 € d'IS — une économie immédiate de 10 000 €."
+  },
+  {
+    "id": "7",
+    "question": "L'intégration fiscale nécessite-t-elle obligatoirement une holding ? Alors quel est l'apport spécifique de la holding dans ce mécanisme ?",
+    "reponse": "Non, l'intégration fiscale peut être appliquée directement entre sociétés opérationnelles sans holding. L'apport propre de la holding est de maximiser l'effet de levier global du groupe et d'apporter des avantages complémentaires en matière de diversification de détention (structuration, protection, transmission) qui vont au-delà du seul mécanisme fiscal."
+  },
+  {
+    "id": "8",
+    "question": "Comment une holding peut-elle faire circuler la trésorerie excédentaire d'une filiale (ex. poissonnerie) vers une autre activité (ex. SCI immobilière) tout en générant un avantage fiscal supplémentaire ?",
+    "reponse": "Le cash remonté à la holding (via le régime mère-fille) peut être reprêté par la holding à une autre filiale (ex. une SCI) via un compte courant d'associé rémunéré par des intérêts (dans la limite légale, ex. 5,65 %/an en mars 2025). Ces intérêts sont déductibles du résultat imposable de la SCI emprunteuse (réduisant son IS), et s'ils sont perçus par une holding elle-même déficitaire, ils ne génèrent aucun impôt supplémentaire chez elle — un double gain fiscal sans double imposition."
+  },
+  {
+    "id": "9",
+    "question": "Qu'est-ce que les « management fees » (frais de gestion) facturés par une holding à ses filiales, et quel est leur intérêt fiscal ?",
+    "reponse": "La holding centralise des fonctions support (comptabilité, juridique, gestion) et les refacture à ses filiales via des management fees. Ces prestations créent des charges déductibles chez les filiales (réduisant leur résultat imposable), tout en optimisant l'organisation globale du groupe — un mécanisme similaire dans sa logique au prêt intragroupe rémunéré."
+  },
+  {
+    "id": "10",
+    "question": "En quoi la structuration en holding protège-t-elle le patrimoine personnel de l'entrepreneur, et quelle en est l'origine historique ?",
+    "reponse": "Chaque activité logée dans une société distincte (SAS, SARL, SA — des personnes morales à responsabilité limitée) isole le risque : en cas de faillite d'une filiale, seule celle-ci est impactée, les autres filiales et la holding restent protégées, et le patrimoine personnel de l'entrepreneur n'est pas engagé. Historiquement, avant l'apparition des sociétés à responsabilité limitée, un commerçant failli risquait de perdre tous ses biens personnels, voire d'être emprisonné pour dettes."
+  },
+  {
+    "id": "11",
+    "question": "Pourquoi faut-il être particulièrement vigilant lorsqu'une SCI fait partie du groupe holding, du point de vue de la protection patrimoniale ?",
+    "reponse": "Contrairement aux SAS/SARL/SA, les SCI (et sociétés civiles en général) sont à responsabilité illimitée : les associés répondent des dettes de la SCI sur leur patrimoine personnel au-delà de leurs apports. Il faut donc structurer le groupe pour que les difficultés financières d'une SCI ne « contaminent » pas le reste du groupe (holding et autres filiales)."
+  },
+  {
+    "id": "12",
+    "question": "Pourquoi loger les actifs stratégiques (propriété intellectuelle, immobilier d'exploitation) dans une structure distincte des sociétés opérationnelles, et quel double avantage cela procure-t-il ?",
+    "reponse": "Double avantage : (1) protection — en cas de difficulté de la société opérationnelle, les actifs stratégiques (brevets, marques, immeubles) restent à l'abri dans leur structure dédiée ; (2) optimisation fiscale — la structure détentrice facture des redevances (licence de PI) ou des loyers (immobilier) à la société opérationnelle, créant des charges déductibles qui réduisent son résultat imposable individuel — sauf en cas d'intégration fiscale, où l'effet s'annule sauf pour les structures étrangères non intégrables."
+  },
+  {
+    "id": "13",
+    "question": "Comment le montage consistant à loger une filiale de propriété intellectuelle dans un pays à fiscalité plus douce (ex. Irlande) permet-il de déplacer du résultat fiscal, et quelle limite légale encadre ce montage ?",
+    "reponse": "La filiale étrangère perçoit des redevances de licence de la part des sociétés opérationnelles du groupe, ce qui déplace mécaniquement du résultat imposable vers la juridiction à taux d'IS plus faible. Ce montage est encadré par la réglementation des prix de transfert : les redevances facturées doivent correspondre à des prix de marché, sous peine de requalification par l'administration fiscale."
+  },
+  {
+    "id": "14",
+    "question": "En quoi la holding simplifie-t-elle la transmission d'une entreprise à plusieurs enfants, indépendamment de tout calcul fiscal ?",
+    "reponse": "Au lieu de transmettre séparément les parts de chaque société du groupe, on ne transmet que les parts de la holding. Cela permet en plus de séparer le contrôle du capital (transmis aux enfants via la holding) de la direction opérationnelle (confiée à des managers), une solution adaptée quand les enfants ne souhaitent ou ne peuvent pas reprendre eux-mêmes l'exploitation."
+  },
+  {
+    "id": "15",
+    "question": "Sur une transmission de 4 millions d'euros à 2 enfants (2 M€ chacun), quel est l'effet du Pacte Dutreil sur les droits de donation, en comparaison d'une donation sans ce régime ?",
+    "reponse": "Sans Pacte Dutreil : les droits de donation représentent environ 1/3 de la valeur transmise, soit environ 1,3 million d'euros au total. Avec le Pacte Dutreil (abattement de 75 % sur la valeur des titres transmis, sous conditions d'engagement de conservation), seul 1 M€ sur les 4 M€ est taxable (500 000 €/enfant) : les droits tombent à environ 98 000 €/enfant, soit 196 000 € au total — 6 fois moins. Si le donateur a moins de 70 ans et transmet en pleine propriété, les droits sont encore divisés par deux (49 000 €/enfant, 98 000 € au total)."
+  },
+  {
+    "id": "16",
+    "question": "À quelle condition une holding peut-elle elle-même bénéficier du Pacte Dutreil, et quel type de biens ne doit-elle surtout pas transmettre sous ce régime ?",
+    "reponse": "La holding doit être qualifiée d'« animatrice » : elle doit participer activement à la conduite de la politique de ses filiales exerçant une activité éligible (ou leur rendre des services internes spécifiques : gestion administrative, juridique, comptable, financière, immobilière). Le Pacte Dutreil ne doit jamais servir à transmettre des biens personnels sans lien avec l'activité professionnelle (ex. immeuble de rapport, compte-titres) — c'est la principale cause de redressement fiscal sur ce dispositif, y compris lorsque ces biens sont logés dans une SCI du groupe."
+  },
+  {
+    "id": "17",
+    "question": "Comment fonctionne un montage de type LBO familial pour transmettre une entreprise aux enfants sans qu'ils aient à débourser personnellement des sommes importantes ?",
+    "reponse": "Les enfants créent une holding qui emprunte auprès d'une banque le montant de la valeur de l'entreprise (ex. 4 M€, la banque prêtant car l'entreprise génère des bénéfices récurrents, ex. 500 000 €/an). La holding utilise ce prêt pour racheter l'entreprise des parents (qui touchent immédiatement leur argent pour la retraite). Chaque année, les dividendes remontés par l'entreprise (500 000 €) servent à rembourser l'emprunt — au bout d'environ 8 ans dans cet exemple, la dette est soldée et les enfants sont propriétaires sans avoir sorti de fonds personnels, tout en évitant les droits de donation."
+  },
+  {
+    "id": "18",
+    "question": "En quoi le montage LBO familial est-il l'équivalent, dans la logique fiscale, de l'immobilier locatif à crédit en patrimoine personnel ?",
+    "reponse": "Dans les deux cas, le patrimoine se développe par autofinancement via des revenus générés par l'actif lui-même (loyers pour l'immobilier, dividendes pour l'entreprise rachetée) plutôt que par un apport personnel initial important, avec en prime la déductibilité des intérêts d'emprunt qui réduit la charge fiscale du montage."
+  },
+  {
+    "id": "19",
+    "question": "Qu'est-ce que le dispositif d'apport-cession (article 150-0 B ter du CGI), et quel problème résout-il par rapport à une vente directe de son entreprise en tant que particulier ?",
+    "reponse": "En vente directe, la plus-value (ex. 4 M€ sur une start-up créée « à partir de rien ») est taxée immédiatement à la flat tax (30 %), soit 1,2 M€ d'impôt, laissant 2,8 M€ à réinvestir. Avec le 150-0 B ter, l'entrepreneur apporte d'abord ses titres à sa holding (constatant une plus-value d'apport placée en report d'imposition, non payée immédiatement), puis la holding revend les titres sans plus-value taxable (valeur d'acquisition = valeur d'apport) : les 4 M€ intégraux sont disponibles en cash dans la holding pour être réinvestis, sans frottement fiscal immédiat."
+  },
+  {
+    "id": "20",
+    "question": "Quelle est la condition de réinvestissement à respecter pour maintenir le report d'imposition dans le cadre de l'apport-cession (150-0 B ter), et comment récupère-t-on finalement l'argent à titre personnel ?",
+    "reponse": "La holding doit réinvestir au moins 60 % du produit de cession dans des investissements économiques éligibles (activités commerciales, industrielles ou agricoles, pilotées par un gérant ou par l'entrepreneur lui-même) ; les 40 % restants peuvent être librement réinvestis (immobilier, placements financiers). Pour bénéficier personnellement de cet argent, il faut ensuite que ces investissements génèrent des dividendes que la holding redistribue au particulier — ceux-ci étant alors imposés à la flat tax classique."
+  },
+  {
+    "id": "21",
+    "question": "Quel est le principal risque juridique généralisé qui pèse sur tout montage en holding, et quelle est la meilleure protection contre ce risque ?",
+    "reponse": "Le risque d'abus de droit : l'administration fiscale peut requalifier un montage si elle estime qu'il a été réalisé uniquement dans un but fiscal, sans réelle substance économique. La protection consiste à s'assurer que la holding a une véritable raison d'être économique (organisation, protection, développement) au-delà de la seule optimisation fiscale, et à toujours facturer les prestations intragroupe (management fees, loyers, prêts) à des conditions de marché — sous peine de requalification en actes anormaux de gestion ou distributions de dividendes déguisées, entraînant un redressement."
+  },
+  {
+    "id": "22",
+    "question": "Quel est l'ordre de grandeur des coûts de mise en place et de fonctionnement d'une holding, et pourquoi ce coût est-il un facteur limitant pour les petites structures ?",
+    "reponse": "Environ 450 € de frais de création (sans conseil), 1 000 à 5 000 € de frais de commissaire aux apports en cas d'apport de titres, puis 1 500 à 5 000 €/an de frais récurrents (comptabilité, juridique, taxes). Ces coûts fixes doivent être compensés par le gain fiscal généré par la structure : en dessous d'un certain seuil de patrimoine ou de revenus, la holding n'est pas rentable — d'où l'importance de dimensionner le montage à la taille réelle du patrimoine."
+  },
+  {
+    "id": "23",
+    "question": "Quelle est la mise en garde finale de la vidéo concernant la résidence principale détenue en société (SCI) dans un couple, et que symbolise l'analogie des « trois petits cochons » ?",
+    "reponse": "Mettre la résidence principale en société permet, en cas de décès de l'un des conjoints, au survivant de revendre le bien sans avoir besoin de l'accord des enfants (héritiers) — un niveau de protection supérieur à la détention en direct. L'analogie des trois petits cochons classe les niveaux de protection patrimoniale du couple : la maison de paille (concubinage, protection la plus faible), la maison de bois (PACS, protection intermédiaire), et la maison de pierre (structure sociétaire/mariage avec dispositions adaptées, la plus solide) — l'organisation juridique du couple est aussi déterminante que le montage fiscal lui-même."
+  }
+]
